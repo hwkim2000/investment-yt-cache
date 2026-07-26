@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T09:52:18.524538+00:00",
+  "generated_at": "2026-07-26T10:01:55.099362+00:00",
   "count": 30,
   "videos": {
     "OhiI-mQRVXA": {
@@ -7,21 +7,27 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] AI 혁명은 진짜다, 그런데 75년을 기다려야 한다? 스탠포드의 연구 | 채드 존스 2부",
       "published": "2026-07-25T08:35:14+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=OhiI-mQRVXA&ei=w9plat7HFoaWsfIPyLfd6AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085235&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3523D5235B2E3AF3093F6F4093B45CFF29049757.E850D8BC721CF903F0A1FAA21DFF57A3533E24BF&key=yt8&kind=asr&lang=ko"
+      }
     },
     "rdIlfI17-S0": {
       "channel": "월가아재의과학적투자",
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 개발자가 전부 사라져도 GDP는 0.5% 고작 오른다? 스탠퍼드 대가의 계산 | 채드 존스 1부",
       "published": "2026-07-23T11:32:58+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=rdIlfI17-S0&ei=xNplapvDC5GesfIPqKa64QQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085236&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5B4FCECF3593E3545418D7758CE649C0A93D9693.C4589210C3417CB11B0A0FB47105AB5B6001BC93&key=yt8&kind=asr&lang=ko"
+      }
     },
     "unxu9CfZDTs": {
       "channel": "월가아재의과학적투자",
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 24살에 운용자산 30조, 수익률은 270%, 실력인가 운인가? | 레오폴드 아셴브레너 2부",
       "published": "2026-07-20T09:43:06+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=unxu9CfZDTs&ei=xNplavi1PI-ZsfIPt4HYoAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085237&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=76BE79C489C45FCC4AFF7DB754DFC476E6436A94.3C0F2F241A696E5F541C23E9784A97C749FE51BC&key=yt8&kind=asr&lang=ko"
+      }
     },
     "NrtxiATovN8": {
       "channel": "소수몽키",
@@ -35,7 +41,9 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "증시는 지금 큰 오해 중?버핏의 마지막 베팅 또 적중할까",
       "published": "2026-07-22T12:14:52+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=jTyJO_RfAt8&ei=1dplaorBGtH0sfIP1pvrSQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085253&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E173C3FBF83F561B6179BE357591B4D07FF97402.05513EB21CF4EC1D29DA9326A1D554FE7EEA4C24&key=yt8&kind=asr&lang=ko"
+      }
     },
     "KJ7x1q1INpI": {
       "channel": "소수몽키",
@@ -49,91 +57,117 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "반도체 폭락으로 빚투 빠르게 청산 중? 절호의 기회 올까",
       "published": "2026-07-20T12:47:27+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=OgWZKiuoiXg&ei=3dplap_fJJKosfIPvpXNgQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085261&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=44FA0F6E9E3EE3CB5E1F21B42C2361BE7F5906E4.2D1B2E562E9099096185BD2280D9BF2F4BF36210&key=yt8&kind=asr&lang=ko"
+      }
     },
     "x-JbpAtmYV4": {
       "channel": "서대리TV",
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "투자자 100% 손실 중인 국내상장 ETF",
       "published": "2026-07-25T04:55:10+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=x-JbpAtmYV4&ei=3tplasqlOND7sfIP59fEiAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085262&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=52AD703AF946AE6ADCCFB9F31D5032DD98370106.DAC9DA7A3093A68DB0669E3E078B996977CDC251&key=yt8&kind=asr&lang=ko"
+      }
     },
     "PygAd3SoO08": {
       "channel": "서대리TV",
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "대한민국 평균 노후 생활비",
       "published": "2026-07-24T03:30:16+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=PygAd3SoO08&ei=39platGnK_qHt7EPjoeu8Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085263&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C4B665CFAE82C75E3E72E79FDE4A801DF42EC832.B5EA0FC261EB8E4499AB681936BC0457748681&key=yt8&kind=asr&lang=ko"
+      }
     },
     "Z9Cs6RSsGjk": {
       "channel": "서대리TV",
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "환율 1400원대 급락에 서대리는 환전 이렇게 합니다",
       "published": "2026-07-23T13:58:07+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=Z9Cs6RSsGjk&ei=4Nplaui-HsSKsfIPrLGiqAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085264&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D26F34B53B985848133F04DEA9B84D4154BD8B27.5137A1007FB48E0BE423328268592D6846050696&key=yt8&kind=asr&lang=ko"
+      }
     },
     "TZQulFku9OA": {
       "channel": "서대리TV",
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "5억으로 월배당 300만원 받기. 근데 건보료는 0원",
       "published": "2026-07-22T14:12:38+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=TZQulFku9OA&ei=4dplarqjEpaSsfIP0MynkAE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085265&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4779A534988C794EDB2E8A93238C151D65272EC7.A39A14F514385A3A6276EA3F340B8932334A543C&key=yt8&kind=asr&lang=ko"
+      }
     },
     "nf4thcYEtcc": {
       "channel": "서대리TV",
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "추매하고 싶은데 미국주식 왜이리 안 떨어져?",
       "published": "2026-07-22T03:30:20+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=nf4thcYEtcc&ei=4tplavXYBoWdsfIPu6OvuQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085266&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=AE3B3C37C9981D9DBACA347FDAE1621472254EC9.4ABAA3EE90C1173AEB8AD2278DCE6E7FDF091435&key=yt8&kind=asr&lang=ko"
+      }
     },
     "aVYJk32EBvM": {
       "channel": "독거투자일지TV",
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "현금이 고갈되는 하이퍼스케일러들, 투자 잘하는 사람들은 어떻게 보나?(독거투자일지)",
       "published": "2026-07-23T23:00:38+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=aVYJk32EBvM&ei=49plaoqyGpT3sfIPudW6sAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085267&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=905678AB25E7B6123095F100311822645404373B.11B5700BA0A58204F0F1116032AB75F435600BE9&key=yt8&kind=asr&lang=ko"
+      }
     },
     "iEPUxu9_Uoc": {
       "channel": "독거투자일지TV",
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "과연 코스피 조정은 끝났나? 앞으로 진짜 폭등 오나?(독거투자일지)",
       "published": "2026-07-22T13:45:24+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=iEPUxu9_Uoc&ei=5Nplapr6DPifsfIPmuHtoAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085268&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D2235C4EDC4FDE443FED35F638354C3815A32D04.D56D4E394CF82C183A7DEDD673938B61FB5C7665&key=yt8&kind=asr&lang=ko"
+      }
     },
     "QF9DKiCCq7g": {
       "channel": "언더스탠딩",
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "책은 안 읽지만 외로워서 서점 갑니다 (해담경제연구소 어예진 소장)",
       "published": "2026-07-26T05:55:22+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=QF9DKiCCq7g&ei=5dplavOxDNOfsfIPoay56QQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085269&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2E87C830C14C5BA078757C6AF44F5448D6298DA8.ACD5A2A710CAE610B027C7645918B6424E513285&key=yt8&kind=asr&lang=ko"
+      }
     },
     "diPa0TOt8bY": {
       "channel": "언더스탠딩",
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "맨유 선수들이 무조건 정장에 넥타이 맸던 이유",
       "published": "2026-07-25T14:15:12+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=diPa0TOt8bY&ei=5dplarSWO53ZsfIPgv2kuAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085270&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=241E6FF22A78951C4B4CDB8712448ECC4B78ACFE.B3F7F148907B461F20480350A5C60E7519BAD1A4&key=yt8&kind=asr&lang=ko"
+      }
     },
     "4LPWH2hCIUk": {
       "channel": "언더스탠딩",
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "엔비디아가 찾아왔다 한국식으로 로봇 가르친다 (스카이인텔리전스 이재철 대표)",
       "published": "2026-07-25T11:55:06+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=4LPWH2hCIUk&ei=5tplasqJLav6sfIP48_CqQU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085270&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C5C3F4EF6DCDC9604194566F775C54AEA075FDA0.9DBD60E5920DE17734B6137CBFF11B9735F105F3&key=yt8&kind=asr&lang=ko"
+      }
     },
     "yuE-UFf7wkE": {
       "channel": "언더스탠딩",
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "글로벌 투기자금 한국 먹잇감으로 찍었다",
       "published": "2026-07-24T14:15:02+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=yuE-UFf7wkE&ei=59plas27Hv2gsfIPrZSg6Aw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085271&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=DC0E528B290930765930010A2F3D1EC37C1A710C.4F00A4301B98E54C63F53995C0268C6678D7131C&key=yt8&kind=asr&lang=ko"
+      }
     },
     "A8b4NUit_4U": {
       "channel": "언더스탠딩",
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "환율 오른다고 서학개미 탓하지 마라 (류상철 전 한국은행 국장)",
       "published": "2026-07-24T12:25:36+00:00",
-      "subs": {}
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=A8b4NUit_4U&ei=6NplaqWVEPSEt7EPmtSp6A0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085272&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=33FBB322C6075335901B871A025AB16D6C1C3816.3CD9DFBD0859F186916898EC3827E7E309B05C30&key=yt8&kind=asr&lang=ko"
+      }
     },
     "EzvdGKs05Rc": {
       "channel": "Patrick Boyle",
@@ -147,14 +181,18 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Even God Would Be Fired | Wes Gray on Bubbles, AI Valuations and Why Size Was Never the Edge",
       "published": "2026-07-25T12:00:01+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=XHxMiYpLGmo&ei=8dplasehDvyUt7EPkti9oQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085281&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E0DA02A4BE7B89C12E37CEF5601E44C09CA27067.6972DD96B11F00E0DDE0C7F6E560F2FABAFC1320&key=yt8&kind=asr&lang=en&variant=gemini"
+      }
     },
     "3UV3XFFy5Zo": {
       "channel": "Excess Returns",
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "When Growth is Bad | Aswath Damodaran on How AI Growth Can Destroy Value",
       "published": "2026-07-24T12:00:00+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=3UV3XFFy5Zo&ei=8dplari_O_z3sfIP4cPM0A4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085282&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C9BDA636A01AD955CD8E812E4F5DA6B26D6FB45F.49C3BB59111B19337E979D74FB7AC2C2820CED19&key=yt8&kind=asr&lang=en&variant=gemini"
+      }
     },
     "Q6ThY2JBZgU": {
       "channel": "Excess Returns",
@@ -168,35 +206,45 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "We Asked the Man Who Mapped the AI Economy If the Boom Is Real — And Who Keeps the Money",
       "published": "2026-07-21T16:09:33+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=Ubx8TrhU3-k&ei=-dplatbdMpaVsfIPg7uh-AQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085289&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=782C8BFF50BC39EAF9B69D84B84004ADF152838E.6F609F436A6D1D826EA719D536F519A108F68D14&key=yt8&kind=asr&lang=en"
+      }
     },
     "GRDQcDOCI7A": {
       "channel": "Excess Returns",
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "The Stories Get SpaceX Wrong — The Numbers Do Too | Aswath Damodaran Explains Why",
       "published": "2026-07-21T11:53:17+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=GRDQcDOCI7A&ei=-tplauHiIpqYsfIP-tafgAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085290&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B7E1ED0EE188C3C234B07B2719ADF0D3C4C8656C.A39876F871FB2B496300336372033990D9FCD55E&key=yt8&kind=asr&lang=en&variant=gemini"
+      }
     },
     "0aL-3b4h_qw": {
       "channel": "The Compound",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Secrets From the Greatest Fund Manager of All Time | TCAF 252",
       "published": "2026-07-24T13:00:17+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=0aL-3b4h_qw&ei=-9platu5JZGXsfIP4MHSsAU&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085291&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E514E2468F04AC878A6E142739F77E912FD2F525.B68EAAEEF5B7F4D52974B81308080978BFB81997&key=yt8&kind=asr&lang=en"
+      }
     },
     "0qSiPwVZYd0": {
       "channel": "The Compound",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "An Era of Fiscal Dominance",
       "published": "2026-07-24T01:33:33+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=0qSiPwVZYd0&ei=AttlatWbJayfsfIP86yY-Q0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085298&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=339AB8763A9C33446D881A8F4AB3F834011132ED.6570D5DE694BBB597BCE4F7906A3BA7D7A6B708E&key=yt8&kind=asr&lang=en"
+      }
     },
     "3cp3EzVrnHs": {
       "channel": "The Compound",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "This 19 Year Old Is Investing Better Than Most Adults",
       "published": "2026-07-24T01:06:32+00:00",
-      "subs": {}
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=3cp3EzVrnHs&ei=A9tlapeuFbapsfIPsozE8Qo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1785085299&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=42D67C0A7E9FDA3FAB815985CD6D0BFC76D4F9CB.1BC4F8AC5297133E9230B5EA73B879A2546A25DD&key=yt8&kind=asr&lang=en&variant=gemini"
+      }
     },
     "87dkep-ETAI": {
       "channel": "The Compound",
