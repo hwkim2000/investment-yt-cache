@@ -1,12 +1,13 @@
 """Daily fetch: latest video metadata + subtitle URLs for Investment channels.
 
-Runs on GitHub Actions (non-blocked IP) since VPS is bot-detected.
-Writes latest.json committed back to repo; VPS consumes via raw.githubusercontent.com.
+Uses CF Worker (yt-subs-worker) because GHA + VPS IPs are YouTube-blocked.
+Worker calls YouTube innertube API from CF edge IPs → returns signed
+timedtext URLs (ip=0.0.0.0, 24h valid, IP-unrestricted).
 """
 from __future__ import annotations
 
 import json
-import subprocess
+import os
 import sys
 import time
 import urllib.request
@@ -17,6 +18,10 @@ from pathlib import Path
 CHANNELS = json.loads(Path("channels.json").read_text(encoding="utf-8"))
 CUTOFF_DAYS = 7
 PER_CHANNEL = 5
+WORKER_URL = os.environ.get(
+    "YT_SUBS_WORKER_URL",
+    "https://yt-subs-worker.martinkim3147.workers.dev/subs",
+)
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
 
@@ -48,43 +53,23 @@ def latest_video_ids(channel_id: str, days: int) -> list[dict]:
     return out
 
 
-def _pick(entries: list[dict]) -> str | None:
-    if not entries:
-        return None
-    for e in entries:
-        if e.get("ext") == "vtt":
-            return e.get("url")
-    for e in entries:
-        if e.get("ext") in ("srv3", "srv1", "ttml", "json3"):
-            return e.get("url")
-    return entries[0].get("url")
-
-
-def dump_subs(video_id: str, langs: tuple[str, ...] = ("ko", "en")) -> dict[str, str]:
-    import os as _os
-    cmd = ["yt-dlp", "--dump-json", "--skip-download", "--no-warnings"]
-    cookies = _os.environ.get("YT_COOKIES_FILE", "")
-    if cookies and Path(cookies).exists():
-        cmd += ["--cookies", cookies]
-    cmd.append(f"https://www.youtube.com/watch?v={video_id}")
-    try:
-        cp = subprocess.run(cmd, capture_output=True, text=True, timeout=90, check=False)
-        if cp.returncode != 0 or not cp.stdout.strip():
-            err_tail = (cp.stderr or "").strip().splitlines()[-3:]
-            print(f"  yt-dlp fail rc={cp.returncode} err={err_tail}", file=sys.stderr)
-            return {}
-        info = json.loads(cp.stdout)
-    except Exception as e:
-        print(f"  exception: {e}", file=sys.stderr)
-        return {}
-    subs = info.get("subtitles") or {}
-    auto = info.get("automatic_captions") or {}
-    out: dict[str, str] = {}
-    for lang in langs:
-        u = _pick(subs.get(lang) or []) or _pick(auto.get(lang) or [])
-        if u:
-            out[lang] = u
-    return out
+def fetch_subs_via_worker(video_id: str, retries: int = 3) -> dict[str, str]:
+    """CF Worker returns {"subs": {"ko": "https://...", "en": "..."}}."""
+    last_err = ""
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(
+                f"{WORKER_URL}?vid={video_id}&langs=ko,en",
+                headers={"User-Agent": "investment-yt-cache/1.0"},
+            )
+            with urllib.request.urlopen(req, timeout=30) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            return data.get("subs", {}) or {}
+        except Exception as e:
+            last_err = str(e)[:100]
+            time.sleep(1 + attempt)
+    print(f"  worker fail after {retries}: {last_err}", file=sys.stderr)
+    return {}
 
 
 def main() -> None:
@@ -97,7 +82,7 @@ def main() -> None:
             print(f"[{name}] RSS fail: {e}", file=sys.stderr)
             continue
         for v in entries:
-            urls = dump_subs(v["id"])
+            urls = fetch_subs_via_worker(v["id"])
             videos[v["id"]] = {
                 "channel": name,
                 "channel_id": cid,
@@ -106,7 +91,7 @@ def main() -> None:
                 "subs": urls,
             }
             print(f"[{name}] {v['id']} — subs: {list(urls.keys()) or 'none'} — {v['title'][:60]}")
-            time.sleep(1)
+            time.sleep(0.5)
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "count": len(videos),

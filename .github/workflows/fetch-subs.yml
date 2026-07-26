@@ -18,18 +18,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install -U yt-dlp
-
-      - name: Write cookies
-        env:
-          YT_COOKIES: ${{ secrets.YT_COOKIES }}
-        run: |
-          printf '%s' "$YT_COOKIES" > yt_cookies.txt
-          wc -c yt_cookies.txt
-
-      - name: Fetch subtitles
-        env:
-          YT_COOKIES_FILE: yt_cookies.txt
+      - name: Fetch subtitles via CF Worker
         run: python fetch_subs.py
 
       - name: Commit
