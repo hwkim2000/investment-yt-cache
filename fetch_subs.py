@@ -65,7 +65,6 @@ def dump_subs(video_id: str, langs: tuple[str, ...] = ("ko", "en")) -> dict[str,
         cp = subprocess.run(
             [
                 "yt-dlp", "--dump-json", "--skip-download", "--no-warnings",
-                "--extractor-args", "youtube:player_client=mweb,web,tv",
                 f"https://www.youtube.com/watch?v={video_id}",
             ],
             capture_output=True, text=True, timeout=90, check=False,
