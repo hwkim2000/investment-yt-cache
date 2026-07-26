@@ -61,14 +61,14 @@ def _pick(entries: list[dict]) -> str | None:
 
 
 def dump_subs(video_id: str, langs: tuple[str, ...] = ("ko", "en")) -> dict[str, str]:
+    import os as _os
+    cmd = ["yt-dlp", "--dump-json", "--skip-download", "--no-warnings"]
+    cookies = _os.environ.get("YT_COOKIES_FILE", "")
+    if cookies and Path(cookies).exists():
+        cmd += ["--cookies", cookies]
+    cmd.append(f"https://www.youtube.com/watch?v={video_id}")
     try:
-        cp = subprocess.run(
-            [
-                "yt-dlp", "--dump-json", "--skip-download", "--no-warnings",
-                f"https://www.youtube.com/watch?v={video_id}",
-            ],
-            capture_output=True, text=True, timeout=90, check=False,
-        )
+        cp = subprocess.run(cmd, capture_output=True, text=True, timeout=90, check=False)
         if cp.returncode != 0 or not cp.stdout.strip():
             print(f"  yt-dlp fail rc={cp.returncode}", file=sys.stderr)
             return {}

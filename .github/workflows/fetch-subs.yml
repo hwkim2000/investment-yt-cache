@@ -20,7 +20,16 @@ jobs:
 
       - run: pip install -U yt-dlp
 
+      - name: Write cookies
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          printf '%s' "$YT_COOKIES" > yt_cookies.txt
+          wc -c yt_cookies.txt
+
       - name: Fetch subtitles
+        env:
+          YT_COOKIES_FILE: yt_cookies.txt
         run: python fetch_subs.py
 
       - name: Commit
