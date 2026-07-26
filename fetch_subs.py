@@ -70,7 +70,8 @@ def dump_subs(video_id: str, langs: tuple[str, ...] = ("ko", "en")) -> dict[str,
     try:
         cp = subprocess.run(cmd, capture_output=True, text=True, timeout=90, check=False)
         if cp.returncode != 0 or not cp.stdout.strip():
-            print(f"  yt-dlp fail rc={cp.returncode}", file=sys.stderr)
+            err_tail = (cp.stderr or "").strip().splitlines()[-3:]
+            print(f"  yt-dlp fail rc={cp.returncode} err={err_tail}", file=sys.stderr)
             return {}
         info = json.loads(cp.stdout)
     except Exception as e:
