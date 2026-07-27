@@ -1,8 +1,8 @@
-"""Daily fetch: latest video metadata + subtitle URLs for Investment channels.
+"""Daily fetch: latest video metadata + subtitle URLs + full transcript for Investment channels.
 
-Uses CF Worker (yt-subs-worker) because GHA + VPS IPs are YouTube-blocked.
-Worker calls YouTube innertube API from CF edge IPs → returns signed
-timedtext URLs (ip=0.0.0.0, 24h valid, IP-unrestricted).
+Primary: CF Worker (yt-subs-worker) — returns signed timedtext URLs (ip=0.0.0.0, 24h).
+Fallback: youtube-transcript-api on GHA runner — stores full text in cache when worker misses.
+VPS fetcher reads `subs` (signed URLs) first, then `transcript` (text) as backup.
 """
 from __future__ import annotations
 
@@ -72,6 +72,28 @@ def fetch_subs_via_worker(video_id: str, retries: int = 3) -> dict[str, str]:
     return {}
 
 
+def fetch_transcript_direct(video_id: str, char_cap: int = 6000) -> str:
+    """youtube-transcript-api on GHA runner. Fallback when CF Worker signed URLs miss.
+
+    GHA IPs pool is decent; blocked minority filtered by RequestBlocked. Auto/manual
+    captions both accepted, ko preferred.
+    """
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+    except ImportError:
+        return ""
+    api = YouTubeTranscriptApi()
+    for langs in (["ko"], ["en"], ["ko", "en"]):
+        try:
+            segs = api.fetch(video_id, languages=langs)
+            text = " ".join(s.text for s in segs).strip()
+            if text:
+                return text[:char_cap]
+        except Exception:
+            continue
+    return ""
+
+
 def main() -> None:
     videos: dict[str, dict] = {}
     for ch in CHANNELS:
@@ -83,14 +105,19 @@ def main() -> None:
             continue
         for v in entries:
             urls = fetch_subs_via_worker(v["id"])
+            transcript = ""
+            if not urls:
+                transcript = fetch_transcript_direct(v["id"])
             videos[v["id"]] = {
                 "channel": name,
                 "channel_id": cid,
                 "title": v["title"],
                 "published": v["published"],
                 "subs": urls,
+                "transcript": transcript,
             }
-            print(f"[{name}] {v['id']} — subs: {list(urls.keys()) or 'none'} — {v['title'][:60]}")
+            src = list(urls.keys()) if urls else (["transcript"] if transcript else "none")
+            print(f"[{name}] {v['id']} — {src} — {v['title'][:60]}")
             time.sleep(0.5)
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

@@ -18,7 +18,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Fetch subtitles via CF Worker
+      - name: Install deps
+        run: pip install youtube-transcript-api
+
+      - name: Fetch subtitles (CF Worker + transcript-api fallback)
         run: python fetch_subs.py
 
       - name: Commit
