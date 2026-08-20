@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:11:25.190719+00:00",
+  "generated_at": "2026-08-20T22:14:28.950510+00:00",
   "count": 27,
   "videos": {
     "33M3XZqTuvc": {
@@ -7,14 +7,6 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] AI는 끝물이라면서 AI를 다시 산 이유? 월가 전설의 태세전환 | Q2 13F 1부",
       "published": "2026-08-19T11:41:14+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "k_BBa5rgBs4": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 미국은 왜 달러가 아닌 유로를 팔았을까? 미일 거래의 숨겨진 목적 | 미국 장기금리 2부",
-      "published": "2026-08-13T12:47:38+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -31,9 +23,7 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "반도체 담보 대출까지 등장? 광기의 AI투자 붐, 불길한 조짐일까",
       "published": "2026-08-18T11:35:14+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=I9c5nDHD_t8&ei=rSmGau_DKK_pybgP5-epmAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787202589&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=617B9AC085C9D8CC4E349C86096225C4A10AA8E9.62EB87D2E6D26194B21CA50C9DB2FEB46C5408A2&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "EBrpasxcrQk": {
@@ -41,9 +31,25 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "미국의 중국 메모리 때리기 본격 시작? AI랠리 다시 시작될까",
       "published": "2026-08-17T10:50:13+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "XE6ddE5UAi4": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "은퇴 준비 잘했는데도 망하는 이유",
+      "published": "2026-08-20T14:26:09+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=EBrpasxcrQk&ei=timGarGsNJDpybgPuozH-Q0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787202598&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=28A3A0C61AF61303D270A920D3DCC5A8F6F13DAF.908E7E84BBDFC72B93B0940083A02697E3A0FDF4&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=XE6ddE5UAi4&ei=rnuHatHaGq2hsfIP34-GkA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289118&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=83D81F7FF8C0514B128EB495DE479335E8BAF3A0.966938EF60A4ACF8B1396C8A3A16B43E1D3096C2&key=yt8&kind=asr&lang=ko"
       },
+      "transcript": ""
+    },
+    "jxGcZc3Nt0E": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "은퇴하면 한달 생활비 이만큼 필요합니다",
+      "published": "2026-08-20T03:31:56+00:00",
+      "subs": {},
       "transcript": ""
     },
     "Qq3P4eZxtdY": {
@@ -70,28 +76,38 @@
       "subs": {},
       "transcript": ""
     },
-    "J-_kMb-gU8E": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "ISA와 일반계좌 미국 ETF 세금 계산해보니 대반전입니다",
-      "published": "2026-08-16T02:38:07+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "fZ4h5F6tzew": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "원조 SCHD와 가장 비슷한 미국배당 다우존스",
-      "published": "2026-08-15T07:46:27+00:00",
-      "subs": {},
-      "transcript": ""
-    },
     "5PBPqaYuwmY": {
       "channel": "독거투자일지TV",
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "코스피는 왜 개인이 사면 빠지고 외국인이 사면 오를까? 미국채 금리 4.7% 어디까지 올라가나?(독거투자일지)",
       "published": "2026-08-18T11:10:33+00:00",
       "subs": {},
+      "transcript": ""
+    },
+    "9kQgGjcF6A8": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "10년 전엔 헛소리, 지금은 현실?  #테슬라 #일론머스크 #제로사회",
+      "published": "2026-08-20T14:15:08+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "2eU_-U_rXvw": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "미국 LNG 수출이 세계 1위로 올라선 이유 (COR에너지인사이트 권효재 대표)",
+      "published": "2026-08-20T12:25:08+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "LUeLYNZqxs0": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "용산공원 대혈투 팩트만 뜯어봤습니다 (언더스탠딩 장순원 기자)",
+      "published": "2026-08-20T07:55:28+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=LUeLYNZqxs0&ei=9HuHasWOB52fsfIPqMPdsQ4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289188&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=34EE511EF660FD5A246D3A0EE55DEBFA0E46CEA1.14B4EC6DEEBFF59C8F0F2EE2D158B7FF72F2CFFE&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "Q_VGQa7wK3M": {
@@ -110,28 +126,14 @@
       "subs": {},
       "transcript": ""
     },
-    "0N4PGfhGkV4": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국은 고금리로 난리났는데, 중국 AI는 2% 금리에 빌린다 (언더스탠딩 김상훈 기자)",
-      "published": "2026-08-19T07:55:34+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "5EL1HIZ3e10": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "조선식 지진 측정법, 노벨상 받아도 됨",
-      "published": "2026-08-18T14:15:08+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "eID7A-G0Fq4": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "머스크가 숨기는 로봇의 진짜 병목 (HMG경영연구원 박형근 실장) (2부)",
-      "published": "2026-08-18T12:25:39+00:00",
-      "subs": {},
+    "AAi9QIl6gw8": {
+      "channel": "Aswath Damodaran",
+      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
+      "title": "AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!",
+      "published": "2026-08-20T21:14:24+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=AAi9QIl6gw8&ei=BnyHar6WGZ-hsfIPlIPMoQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289206&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9FF0D72D77BDFBA62AA0426D834D2676E5B2E100.1D0D05032217199E6852570FE4803D9DAA3347CF&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "yh18YXKMk3g": {
@@ -139,6 +141,14 @@
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "The Insane US-Japan Currency Bailout",
       "published": "2026-08-15T13:45:06+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "C5eykm2q1Ig": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "We Asked Andy Constan What Happens If AI Funding Breaks Before the Thesis — And if Warsh Blinks",
+      "published": "2026-08-20T12:00:50+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -164,16 +174,8 @@
       "title": "Big Semi Decline. Big Rally. Big Macro Shift | What the Options Market Says Comes Next",
       "published": "2026-08-15T15:48:26+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=dqqXnSa7UqM&ei=9SmGavilAffpybgP9aPosA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787202661&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B320EF4233E0376B16C1B22F93B4FE79CD8F9FE6.5BA2B04785AA2F431AF00BC2B6D178731017A517&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=dqqXnSa7UqM&ei=JHyHav7jL7uosfIPypKxqA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289236&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=AF779F0A0FB6576F60A6C2A3E9C4B9F0F2CD40A8.8BCC57968E0E4F4E994B7698A47FB6E4BBAF3A74&key=yt8&kind=asr&lang=en"
       },
-      "transcript": ""
-    },
-    "FrOod1EWphk": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Jim Paulsen Sees a Growth Scare Coming | The 34 Charts That Make Him Cautious",
-      "published": "2026-08-13T14:03:25+00:00",
-      "subs": {},
       "transcript": ""
     },
     "skc2T5fcoLY": {
@@ -182,6 +184,16 @@
       "title": "When Compounding Works Against You",
       "published": "2026-08-16T10:00:17+00:00",
       "subs": {},
+      "transcript": ""
+    },
+    "mQsltriNuOk": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Young People: Stop Complaining",
+      "published": "2026-08-20T00:29:09+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=mQsltriNuOk&ei=M3yHav-_Aq_2sfIPqqvo2QU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289251&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=266E1DAEEC0BB0C4C54A6738D9D93AA75E436ECE.D032B0FA969B078DB40C94538D11C0C9EE639BD5&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
       "transcript": ""
     },
     "NVfiw3FNQD0": {
@@ -197,9 +209,7 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "The Best Bear Case on AI | Animal Spirits 478",
       "published": "2026-08-19T10:00:26+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=8rx1SjD11yQ&ei=BSqGaq3RDtDwvPEPpISqsA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787202677&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BDEB1A4326B58B455E49C15607307A4FE4D5CAA3.868FF894A774A81A5FB50535E5E09A0DE05BAD76&key=yt8&kind=asr&lang=en"
-      },
+      "subs": {},
       "transcript": ""
     },
     "aAUqlk4H8p0": {
@@ -208,7 +218,7 @@
       "title": "Will Spotify Be the First Media Company to Hit 1 Billion Subscribers?",
       "published": "2026-08-19T02:04:45+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=aAUqlk4H8p0&ei=BiqGapvbA_nHybgP_YGl6Qw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787202678&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=38E5B872FAD5F3BEF779160789126BBF81A2B3BB.CAC786CEB02413B9269C96FD988715EFAE55D4D6&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=aAUqlk4H8p0&ei=QHyHaoiBGMKbsfIP-OiVyQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787289264&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=AE76C8CBBAEA56339221F9E3D15397CF8DD42E10.449F5F495C163FCA1BCCDA1F3E6A8B5A33FA9182&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -217,14 +227,6 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Treasury Bond Yields Break a 19-Year High | WAYT?",
       "published": "2026-08-18T22:22:06+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "rZXhwOOHHKk": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Josh Brown: Behind the Music",
-      "published": "2026-08-18T14:33:27+00:00",
       "subs": {},
       "transcript": ""
     }
