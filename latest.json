@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T23:58:46.767268+00:00",
-  "count": 28,
+  "generated_at": "2026-09-01T00:50:26.191941+00:00",
+  "count": 27,
   "videos": {
     "PMGGPYafhDU": {
       "channel": "월가아재의과학적투자",
@@ -15,7 +15,19 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 월가 역사상 최고 수익 기록을 세웠다? 장기투자의 신이 고른 종목들을 알아 보자 | Q2 13F 4부",
       "published": "2026-08-25T09:43:27+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=DQPVIJydVes&ei=-SCWatO1N4mZsfIPmpSP-AY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248937&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=29B689B415F29087875EEE9C005DED2B54BF24BA.594A9211A7069741CAF3D7E1C4E7382375F3C172&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "qXuK203LR5Y": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "연준의 깜짝 긴축 선언에 흔들리는 증시, 9월의 악몽 반복될까",
+      "published": "2026-08-31T11:43:00+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=qXuK203LR5Y&ei=-yCWas2_DdCYsfIPuMWRiQ8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248939&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C9FF3FD2B3C8E1DE46018FC6DBB7465E7925EC4C.8699509C6B806DC594D79181BD84F6A49E9AB5D9&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "M43Xh2w0NSk": {
@@ -23,9 +35,7 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "결국 미국 증시로 돈 다시 몰린다? 미국 3대 지수에 쉽게 투자하는 법",
       "published": "2026-08-27T11:52:23+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=M43Xh2w0NSk&ei=LMOUaoeJA9jhlu8P3Yip-Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788159388&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D0193D9043633572AC81D1FA9879D6D697C1E439.9610F974FBEE20E7F97288F78113E55FCCBA1998&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "p5clxqxGFNw": {
@@ -33,15 +43,19 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "생존 모드 포트폴리오로 다 바꿔라? 월가 초고수의 소름 돋는 경고, 적중할까",
       "published": "2026-08-25T11:40:57+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=p5clxqxGFNw&ei=BiGWaqntGLmVt7EPnMKO0Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248950&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C52F532EE3ADF2574EBE521F89913F6E53711358.ECEAA4DCE73BC15DF81A8AFB4AC6A93D8C31756C&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
-    "whg3s-6oRpQ": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "일단 돈 풀어 위기 막고 본다? 달러 붕괴 공포에 빠르게 돈 몰리는 자산들",
-      "published": "2026-08-24T11:50:36+00:00",
-      "subs": {},
+    "DFPPKUKsjzs": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "왜 9월에는 미국주식 파는게 유리하다고 할까?",
+      "published": "2026-08-31T13:33:21+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=DFPPKUKsjzs&ei=ByGWarfUGu2LsfIP2-O3uAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248951&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1433D3BB455F692EAA44F14A50E14938C6DC52BD.B3057B3CE8137AF0FF7F79B0E578DD3C88446268&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "-13BDeCHr40": {
@@ -65,9 +79,7 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "3억으로 파이어, 생각보다 쉽습니다. 이렇게 하세요",
       "published": "2026-08-28T11:12:36+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=XXpNpgeA0So&ei=U8OUarvnK-XfybgPv7DcwAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788159427&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=890EF879D503FDC02632BC63E79640A7D0DE6A5B.DA499D1BBCBD4471B2BB267EE64DB146A0451AEB&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "s3CzxYMzG8s": {
@@ -75,15 +87,9 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "퇴직연금 DC로 바꿨습니다. 무슨 ETF 사요? 한방에 다 살까요?",
       "published": "2026-08-27T12:05:20+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "sB83ySKvaf8": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "피터 린치가 대신 돈 관리해줘도 손실 보는 이유",
-      "published": "2026-08-27T03:44:02+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=s3CzxYMzG8s&ei=EyGWasb5PLGvt7EP2vOy-AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248964&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=99F10FF3452F0074E4A015816EDDEFE1FF3D824E.B9477F414975C2660E9153D173D84602B1A17CFD&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "UosWBhmjHXw": {
@@ -91,15 +97,35 @@
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "엔비디아 어닝콜을 보며 느끼는 점, 동맹국과 반미국가들이 미국 채권을 팔고 있는 이유(독거투자일지)",
       "published": "2026-08-28T04:45:50+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=UosWBhmjHXw&ei=FSGWaprwGZGFt7EPpMHisAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248965&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7AB56447FCA790311A2AEEAA7A10B6B626D55012.E7A175B9E27493BD6A63F4E2429D681D90F3BA80&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "OCFed1o6eqY": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "코로나19 백신 팔던 모더나 다음은 암 백신?",
+      "published": "2026-08-31T14:15:08+00:00",
       "subs": {},
       "transcript": ""
     },
-    "GckhIUfnt1Y": {
-      "channel": "독거투자일지TV",
-      "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
-      "title": "구루들이 2분기에 반도체 주식을 다 던진 이유/IT기업 절대 안 산다던 버핏은 왜 뒤늦게나마 구글을 사서 모으나?(독거투자일지)",
-      "published": "2026-08-24T11:08:12+00:00",
+    "p0xxqDqlS1E": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "우주에 널린 쓰레기 주워서 돈 버는 일본 (와세다대학교 국제학술원 박상준 교수)",
+      "published": "2026-08-31T12:25:09+00:00",
       "subs": {},
+      "transcript": ""
+    },
+    "KQFuipyqjsI": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "가뭄에 이란 전쟁까지, 파나마 운하 최악 위기 올 수 있다 (언더스탠딩 김상훈 기자)",
+      "published": "2026-08-31T07:55:02+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=KQFuipyqjsI&ei=HSGWauT8HJKGt7EP6tbw4AY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248973&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4F741A3BAAE73EE1E590443CD4AAA19281BD6F51.3C4341FCB81A7CE254B8D2EAC0F116B8FFEFD13D&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "IQg1kQE59Z4": {
@@ -118,36 +144,24 @@
       "subs": {},
       "transcript": ""
     },
-    "JcUINxj2kZI": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "푸틴도 고개 숙였다, 강대국 휘어잡는 소국들 (해담경제연구소 어예진 소장)",
-      "published": "2026-08-30T05:55:35+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "Vw5tGUzSXkk": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "LNG 수출 1위 미국 셰일가스빨이다?",
-      "published": "2026-08-29T14:15:36+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "UEEjb9iCBks": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국 못 쓰는 의료 AI 아프리카 맘껏 쓴다 (인디애나 대학교 의과대학 조태호 교수)",
-      "published": "2026-08-29T11:55:31+00:00",
-      "subs": {},
-      "transcript": ""
-    },
     "wZaYyNAXHK4": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "Scott Bessent Is at War With Prices — and Prices Are Winning!",
       "published": "2026-08-29T18:15:06+00:00",
-      "subs": {},
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=wZaYyNAXHK4&ei=JiGWasfaFJeWt7EPx5Cq4QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248982&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=155D16F4CF2191E9EBC00CCAF174F099CAEDF7BB.BE607E91C1F1233DE76C7DA9F8A852FD8F349A8F&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "TWpwFUYoXD0": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Bond Panic. Software Pileup. Borrowed AI Earnings. Are You Pricing the Wrong Risk?",
+      "published": "2026-08-31T13:01:50+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=TWpwFUYoXD0&ei=JyGWatHjLquRsfIP1OfkMQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788248983&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=62D55A2D2896FD386011D1C418065D35C862ED7A.5712E5BD51A9216CF195BBEDFFEC39DFC53CC4D3&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "H62cfg1E2Ts": {
@@ -179,14 +193,24 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Only 2.7% Beat the S&P for 20 Years | Ian Cassel on What Elite Stock Pickers Do Differently",
       "published": "2026-08-25T15:00:49+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=woEz6QBO3eU&ei=OSGWaoy3KaK8sfIP17TTsQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788249001&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A7DA795695795F45E7D36650BC92C09B932B52D7.0426269BEB2EC4DA7B25C5612E6946796C9A5483&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "GMlvdJrcqoE": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "The Government’s New Plan to Push Rates Down",
+      "published": "2026-08-31T12:41:27+00:00",
       "subs": {},
       "transcript": ""
     },
-    "osCOqNhoSxE": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Rates Keep Climbing. Stocks Refuse to Break. What If They're Saying the Same Thing?",
-      "published": "2026-08-24T13:08:27+00:00",
+    "uTX4vUBhk0M": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "What Happens If the AI Boom Collapses?",
+      "published": "2026-08-31T01:47:08+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -211,22 +235,6 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "The Four Horsemen of the AI Apocalypse | TCAF 257",
       "published": "2026-08-28T10:00:05+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "FHkEXkDDVEI": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Would You Want a Sponsored Wedding?",
-      "published": "2026-08-28T01:14:05+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "_WDVGV-9B3c": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "10 Things Every Investor Needs to Know",
-      "published": "2026-08-27T01:42:19+00:00",
       "subs": {},
       "transcript": ""
     }
