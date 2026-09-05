@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:26:29.340201+00:00",
+  "generated_at": "2026-09-05T23:25:38.372423+00:00",
   "count": 25,
   "videos": {
     "MuD8aR8Gwzo": {
@@ -7,9 +7,7 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 헤지펀드가 버블인 것을 알면서도 사는 이유",
       "published": "2026-09-03T11:42:51+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=MuD8aR8Gwzo&ei=bFObarHkItLGsfIPzo680AQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589532&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BE0864724A71EC7077866F25E25A3114E216DA1E.DA2E16375268A7BDE1FC7A112633C27AB3AE91C2&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "DQUqbGr0W6o": {
@@ -17,7 +15,9 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 왜 연준은 침묵하기로 했나? 잭슨홀 완전 해부",
       "published": "2026-09-01T23:32:11+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=DQUqbGr0W6o&ei=pqScaofXBcjHsfIPm6eviAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675862&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=72BB03B32E3DE3CED57FB197E7D4F5CECF2D48DD.7B3B6C83AB970773CBDD9905028D6ECD5B0C4976&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "qXuK203LR5Y": {
@@ -25,8 +25,16 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "연준의 깜짝 긴축 선언에 흔들리는 증시, 9월의 악몽 반복될까",
       "published": "2026-08-31T11:43:00+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "fpjRZWDIlDM": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "미국주식, 달러환율 다 떨어질 때 월적립 매수 꿀팁",
+      "published": "2026-09-05T05:55:34+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=qXuK203LR5Y&ei=clObas28Jumut7EPyofOqQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589538&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9A1F88997663AA62F4784A3943FE443579AACA2F.405354C48622C065E729E6FAFFADDAC5AA1D7BE5&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=fpjRZWDIlDM&ei=q6Scav6fC6SZsfIPovLD0As&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675867&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=0128C8176A7EAC2AB020A25AAE912DDBA2A1B2C3.E1810A8047E338CD7D87A8C2F2787E9205391CB7&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -36,7 +44,7 @@
       "title": "일반계좌에서 TIGER, KODEX 미국나스닥100 사지마세요",
       "published": "2026-09-04T03:30:10+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=dE-eEnvLp7E&ei=c1ObapTOKeyXsfIPrPW74Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589539&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B6ED2AB1F65685EF13101DC24D6576B6206EFD00.CACA729F40491BEC6BC88E40E700786E21251AC0&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=dE-eEnvLp7E&ei=q6Scap-yPJGdsfIP0Zn14Qs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675868&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=980137D4A67EB9753C3699895211F29D7DC9FBFC.B10D9B0DC64E6A1A216BE60A24647DBAC7F44DF2&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -45,9 +53,7 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "주식투자 9년 하면서 가장 큰 후회",
       "published": "2026-09-03T13:24:33+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=Li_WB0F_yzo&ei=dFObauS6Iq6psfIPjvXnoAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589540&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=15639DC51FEA455DA9069A5EF2728A490EA757FA.93C5D60E45F542FA0C8AF7F28A8ED3BAF616D32D&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "PAUWTOvciSY": {
@@ -55,9 +61,7 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "요즘 연금계좌 마이너스라 걱정이시죠? (연금저축펀드 2026년 8월 결산)",
       "published": "2026-09-02T10:43:03+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=PAUWTOvciSY&ei=dVObasmEIZ6Flu8PzPrlyAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589541&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B48CE256CA580326BC55778EE2550E26C9221EF5.012B1BE9952FD6F5B880C24731AE3ECC496DF674&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "WQ-fN5-Owq8": {
@@ -68,13 +72,31 @@
       "subs": {},
       "transcript": ""
     },
-    "7edNuLT96n4": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "요즘 3억 파이어족이 뜨는 이유",
-      "published": "2026-09-01T11:37:41+00:00",
+    "VmZ4wsoMgV8": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "빈 배 통행료 63억 파나마 최악의 위기 왔나?",
+      "published": "2026-09-05T14:15:05+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "h-rsI9Ea7dY": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "(2부) 멜라토닌 수면제 아니다, 자칫하면 다 망가진다 (강동경희대병원 신경과 신원철 교수)",
+      "published": "2026-09-05T11:55:22+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=7edNuLT96n4&ei=elObarnRIoycsfIPhMWIsAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589546&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=13B3C806F265E03C636097D2AA00E331A397B762.2050CE56BD454121B1F41D9D8893FE8E2D5428EB&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=h-rsI9Ea7dY&ei=yKScaq7DHsnqsfIPw6nskQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675896&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4ABDF7B8781CB2091F36EF1BAE4CE0F3D56718C4.053264EB4586B49BA8D8730DADA26506B874DD94&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "Q0ge2O9luKw": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "집값 올랐네? 보너스 취소야 광명 재건축 논란 (언더스탠딩 장순원 기자)",
+      "published": "2026-09-05T05:55:27+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=Q0ge2O9luKw&ei=yaScarnJD8qpsfIP1YaDiAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675897&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A192F028C21882A16E032EDB7A3722B72C93B4F5.923D4BF1AC42BCA8335BFE787EE1CE160DCE0BF3&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -83,9 +105,7 @@
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "미안해? 뭐가 미안한데?",
       "published": "2026-09-04T14:15:04+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=FttnHaoW1oA&ei=fFObavOOO9epsfIP_OAD&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589548&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CCDF3D8A40525C56481DCEFE09A08D231F12D2FF.95C5789891951E59706B2B445108781C97106D30&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "ta2KyfRIhUU": {
@@ -96,52 +116,33 @@
       "subs": {},
       "transcript": ""
     },
-    "RjphVan8Z_U": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "(2부) 수온 높아진 동해, 해저 산사태 시한폭탄 (부산대학교 지질환경과학과 김기범 교수)",
-      "published": "2026-09-04T07:55:13+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=RjphVan8Z_U&ei=gVObatitNYuXt7EP6buGqAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589553&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9FAC83C3CD94F9D53488026EDD3CFCE537F992D8.3D016165389567328C7B1A75F01186592F51CD89&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "GqjQuaa55qU": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "2년 안에 반도체 팹 완성하겠다는 중국, 가능할까?",
-      "published": "2026-09-03T14:15:07+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=GqjQuaa55qU&ei=glObapueNJahlu8P-NXi0A8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589554&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=28733D9AB4420F488F1EFC8F69F8F720278FD9B2.8F9723694AEB8A35B071FB46438AD178D1C4393E&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "19JgEChjtok": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "트럼프가 한국 반도체 찍었다. 중국산 부품 몰래 섞지마 (생크션랩 조의준 대표)",
-      "published": "2026-09-03T12:25:32+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=19JgEChjtok&ei=g1ObaoPSKvuWsfIPk4SNqAs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589555&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E1552FE4850850A3F7B093E4B3152C0725169DA5.515B8CAA2763E8AF03BDD34D9EA19658D6A54972&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
     "R1U3_7fmdqk": {
       "channel": "Aswath Damodaran",
       "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
       "title": "The Scaling and Profitability Trade-off: Venture Capital's weakest link!",
       "published": "2026-09-02T17:15:28+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=R1U3_7fmdqk&ei=0qScas2DC8_8sfIPjYH58AI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675906&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6A603814200B975D953628E24D07C1B4CBB66498.8C9A2685050D7AE33006120E81A216716BC2D460&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=R1U3_7fmdqk&ei=0qScas2DC8_8sfIPjYH58AI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675906&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6A603814200B975D953628E24D07C1B4CBB66498.8C9A2685050D7AE33006120E81A216716BC2D460&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
-    "wZaYyNAXHK4": {
+    "IUMUJgjDvU0": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-      "title": "Scott Bessent Is at War With Prices — and Prices Are Winning!",
-      "published": "2026-08-29T18:15:06+00:00",
+      "title": "The Social Reckoning That Wasn't",
+      "published": "2026-09-05T10:45:30+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=wZaYyNAXHK4&ei=kVObat2cJpSxlu8P3aHJoAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589569&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BA0BEBA985F4A600912B1C754C72772043DD9085.EF4157D1C84DA08D840A779062B43B25FF753AF3&key=yt8&kind=asr&lang=en&variant=gemini"
+        "en": "https://www.youtube.com/api/timedtext?v=IUMUJgjDvU0&ei=06ScaugLwpSx8g-2yZmoBg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675907&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=21348E5B6D239CBFF9D2706798EECF93E10B2757.A9962A627127CA4BDBF8DEE8BACB46E829BC89E3&key=yt8&kind=asr&lang=en"
       },
+      "transcript": ""
+    },
+    "8uLWJHDjmvA": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Nvidia Is Betting on Its Customers. Gen Z Is Betting on Sports. Will It All Unwind the Same Way?",
+      "published": "2026-09-05T13:04:09+00:00",
+      "subs": {},
       "transcript": ""
     },
     "DgeLSAGEMes": {
@@ -149,10 +150,7 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Bearish Into November. Room to Run After: Why Dan Niles Is Watching Hyperscaler Credit Default Swaps",
       "published": "2026-09-03T13:56:52+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=DgeLSAGEMes&ei=klObarLVK_ebsfIPp_qRyA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589570&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=023D086FFB9EA09C3305FC063A0C0EAA08A31B10.965BB8189E6B364CFD5A49BF2C960D72EB10F29A&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=DgeLSAGEMes&ei=klObarLVK_ebsfIPp_qRyA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589570&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=023D086FFB9EA09C3305FC063A0C0EAA08A31B10.965BB8189E6B364CFD5A49BF2C960D72EB10F29A&key=yt8&kind=asr&lang=en"
-      },
+      "subs": {},
       "transcript": ""
     },
     "yr1IbqnH79A": {
@@ -168,10 +166,7 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "The Panic Is in Bonds. The Risk Is in Earnings. Are You Watching the Wrong Market?",
       "published": "2026-08-31T13:01:50+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=TWpwFUYoXD0&ei=l1ObavKOEIyRsfIPv9u4oQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589575&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B4DF72B7BC4BAFB47BC0A5A63BB4EB3A41BC488B.E6394CC2188BBE0C37CEC194295A1261FC4037F2&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=TWpwFUYoXD0&ei=l1ObavKOEIyRsfIPv9u4oQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589575&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B4DF72B7BC4BAFB47BC0A5A63BB4EB3A41BC488B.E6394CC2188BBE0C37CEC194295A1261FC4037F2&key=yt8&kind=asr&lang=en"
-      },
+      "subs": {},
       "transcript": ""
     },
     "H62cfg1E2Ts": {
@@ -179,16 +174,9 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Inflation Is Rising. Stocks Aren’t Breaking. What If Markets Already Know?",
       "published": "2026-08-30T13:23:05+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "_9J2W8cMkgk": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "The Profits Come Now. The Costs Come Later. What If AI Earnings Are the Bubble?",
-      "published": "2026-08-29T12:00:16+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=_9J2W8cMkgk&ei=m1ObatfUOpnfybgPmYOeiAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589580&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2AD651F80EF3FC7ECAA72DFE3C10C69A76C95BFF.33653912C30D51FDA28C7D25DDADCEF626113BA6&key=yt8&kind=asr&lang=en"
+        "ko": "https://www.youtube.com/api/timedtext?v=H62cfg1E2Ts&ei=4qScav7dGs-RsfIP0MTdoQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675922&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C5E5F0583AE8F40D111202518F2536EA7FE9D5EC.5960272985CDA2B9B533067D23A22A45F13DD4FC&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=H62cfg1E2Ts&ei=4qScav7dGs-RsfIP0MTdoQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675922&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C5E5F0583AE8F40D111202518F2536EA7FE9D5EC.5960272985CDA2B9B533067D23A22A45F13DD4FC&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     },
@@ -198,8 +186,7 @@
       "title": "Why the Bears Keep Missing This Market",
       "published": "2026-09-04T16:59:55+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=NfzKHHFN1OM&ei=nVObatfJKfmasfIP4YeEkA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589581&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9DD39A8DDF5111F091C6E702C3175B278FC1A47F.3A73B18C294F173F4449DBC2768A0B4B9164F5BE&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=NfzKHHFN1OM&ei=nVObatfJKfmasfIP4YeEkA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589581&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9DD39A8DDF5111F091C6E702C3175B278FC1A47F.3A73B18C294F173F4449DBC2768A0B4B9164F5BE&key=yt8&kind=asr&lang=en&variant=gemini"
+        "en": "https://www.youtube.com/api/timedtext?v=NfzKHHFN1OM&ei=46ScaufjG5L5sfIP0Pbq-As&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788675923&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A5B1959CDD3AC40A07185852732D164F8DF52DD4.D01FBCB9114DDE87B3BBF7DB2EF6F8140E5D7C3A&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -216,9 +203,7 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "How to Pick Stocks Like Morgan Stanley | TCAF 258",
       "published": "2026-09-04T10:00:03+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=hpTOnDgTjHQ&ei=olObarHJO9LQsfIPnP2psQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589586&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=141929F490EADD6458F8319CD91173504B8243B9.E4B95E0E929B012D953CE42BEB1A4EDF909F47E1&key=yt8&kind=asr&lang=en"
-      },
+      "subs": {},
       "transcript": ""
     },
     "oZENIu7YZdw": {
@@ -226,10 +211,7 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Josh Nailed Snowflake",
       "published": "2026-09-02T21:28:15+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=oZENIu7YZdw&ei=o1ObasbIM4WYsfIP9qvP6Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589587&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7D9748C6E2902E152B1150DEC82084562B6B9CDA.C52A21E0006493F8B7999CE86C30E36D395128A4&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=oZENIu7YZdw&ei=o1ObasbIM4WYsfIP9qvP6Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589587&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7D9748C6E2902E152B1150DEC82084562B6B9CDA.C52A21E0006493F8B7999CE86C30E36D395128A4&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "subs": {},
       "transcript": ""
     },
     "N0lr37LMgNc": {
@@ -237,9 +219,7 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Best Investment Right Now: Stocks, Bonds or Cash?",
       "published": "2026-09-02T17:37:49+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=N0lr37LMgNc&ei=pFObapWFKo78sfIPpp3EkAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788589588&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=EC834074FC665F5754E898A58BCC234DBB41362F.CDCA3FF998BC061BE005BB19D8DB733A86580A81&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "subs": {},
       "transcript": ""
     }
   }
