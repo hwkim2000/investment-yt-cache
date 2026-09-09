@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:44:09.541392+00:00",
-  "count": 27,
+  "generated_at": "2026-09-09T23:33:50.940367+00:00",
+  "count": 28,
   "videos": {
     "OrkekBDtPZU": {
       "channel": "월가아재의과학적투자",
@@ -8,7 +8,7 @@
       "title": "[월가아재] 전기요금이 40% 올랐다? 미국에서 난리난 이유 | 선거와 전쟁 1부",
       "published": "2026-09-08T09:36:51+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=OrkekBDtPZU&ei=YJ2gaq63IumdsfIPoMqZ8A8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936144&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5BD6E035EBF8BFA2D8CA37BDF0E095F34CDA2E47.E8D3442F4838A607FC4D9ECE3DE39DBC7BE135FB&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=OrkekBDtPZU&ei=q-yhauKBO_rYy_sPoYizkA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021980&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=742450C9C03B11B7D64387DFDA646FDB7120C2DC.D274A08F15E5F218A72233218258F02DEA5A4E97&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -18,7 +18,7 @@
       "title": "[월가아재] 물가 4%여도 괜찮은 이유? 이제 인플레이션은 상수입니다",
       "published": "2026-09-07T07:56:37+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=qMl_sLOWO-s&ei=YZ2gat_EHsWWsfIPjL6QsQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936145&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=AD827944D6D27C7ED0BE6B5059879E5DE6C18117.BC5DB3703C99C90D7F4DEE518E12C424DB6CB36C&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=qMl_sLOWO-s&ei=rOyhareBNdSQr9gPodHRkAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021980&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7F9120C200179F86DEB5DCC91A21A68522E3300D.4EDA39CA000001D49BFDCFD5FCA4467DF70024F0&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -27,7 +27,19 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 헤지펀드가 버블인 것을 알면서도 사는 이유",
       "published": "2026-09-03T11:42:51+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=MuD8aR8Gwzo&ei=reyhasqfL6-Dut0Pxv6fgQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021981&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=02D4EA779DB5CE9304BF0BCA42D408EB8F9F75C6.54E4541CC62F70578B30D050B9583118CFC02ED4&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "GMpIu3c-kVc": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "조용히 미국에서 돈 빼기 시작한 주요국들, 거대한 자금 이동에 주목 받는 수혜주들",
+      "published": "2026-09-09T10:34:59+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=GMpIu3c-kVc&ei=ruyharLGMoWXr9gP68_a-AU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021982&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BB3DF9915C77E533961D70C0171C71895A88CC26.C94C0D364DA8C54261251CB704A772035176D89C&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "dGLEg3d6wdw": {
@@ -36,7 +48,7 @@
       "title": "피터 틸, 낸시 펠로시에 내부자까지 조용히 사모으기 시작? 강력한 힌트일까",
       "published": "2026-09-08T11:58:48+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=dGLEg3d6wdw&ei=a52gavroGb7Air4P5Pvd4QU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936155&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8BC6CF1DD85904E2157B711C964BC19FB45DE9EC.C41E41607D0335ACDC982C4CA0C50810241058EF&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=dGLEg3d6wdw&ei=r-yhas_pKZuDut0P6Me-6Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021983&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=463DEE99BEAFA6ADB1668C51062D610F23AC70F8.BCE47A63D84B0E752A073ACD1EE04A3DCC8363BE&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -45,7 +57,19 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "끝판왕 AI 결국 등장, 오픈AI 아스트라가 증시 새 동력될까",
       "published": "2026-09-07T11:59:29+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=e5EGbgAFna4&ei=sOyhaozLHqjoy_sP0a2z0AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021984&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B424498BFDECDD283D32B5A7F21DE25D3B4DC978.48C7B70377835C67EF9FDAFB2165B5515546FD32&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "4GPkB5PhvIY": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "달러환율 빠르게 떨어질 때 이렇게 합니다",
+      "published": "2026-09-09T14:49:35+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=4GPkB5PhvIY&ei=seyhasnsHOORr9gPmqnY8QU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021985&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9310D259C8C33336C7735483C2EBF212877FF60C.7247E5A6D4EA1997F6306C6CE972FBE3AAA99595&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "-0rI5eGL5yU": {
@@ -53,7 +77,9 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "20억 집 팔고 미국주식 몰빵 직장인 이야기 (사연)",
       "published": "2026-09-08T14:06:05+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=-0rI5eGL5yU&ei=suyhas-MEtjFy_sPjZagkA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021986&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=79F75B12B3C04AAE3F66ED42CD1FBC9359D4933A.BCA023543D73F897AE4CDA9237743FE77EA3E77F&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "wb1JaAJrf38": {
@@ -62,7 +88,7 @@
       "title": "한국인들이 놓치고 있다는 S&P500 장기투자 진실",
       "published": "2026-09-07T12:34:33+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=wb1JaAJrf38&ei=eJ2gar_sLI78sfIPpp3EkAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936168&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=85E59703FC6F78D1C52041920BFBAD4D7DA78A1F.983CB0E9EE7C0D2E413A1383B050DB07003F5A60&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=wb1JaAJrf38&ei=vOyhapfnDNy1kucPxtHvkAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021996&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=55E9CEDB2612E14FF10B9F6C4F8A6A030EDFE9B2.3E3C6B75A2980A0A86E266D0A7CE1A83750C2E33&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -72,7 +98,7 @@
       "title": "연봉 5천만원 직장인이 배당금 8천만원 받으면 세금은..?",
       "published": "2026-09-06T13:13:27+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=-L5ebrvk0wM&ei=eZ2gaoWHJOaSsfIPxe3EsAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936169&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4C7F82D62B634F99D2816FA26ED9545708FC5A68.3AC56BEB2AC0563090BAF4DCFE68176E5CA13935&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=-L5ebrvk0wM&ei=veyhasqTBdqKkucPm4XoyAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C41A81E59A221FFB997FD7D37935C144EB5E99FD.7D79AB09F3B28D858D81D3B1CAF2B503B0F6E85E&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -82,16 +108,48 @@
       "title": "미국주식, 달러환율 다 떨어질 때 월적립 매수 꿀팁",
       "published": "2026-09-05T05:55:34+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=fpjRZWDIlDM&ei=ep2gaqWzHfvGsfIPgKSzwQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936170&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=555625CB7DCBE620BCB8C65D4906866ED5BBA2D6.C3B466E71158F1CE4E6A505A87601EE900D6ADCE&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=fpjRZWDIlDM&ei=veyhasTSNriCut0Pw__GuQk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C822810FF619A4A33FCD002EE661FAA2002D7C19.A698FB4F906501BD41E39A1CAA58AB621A10F081&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
-    "dE-eEnvLp7E": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "일반계좌에서 TIGER, KODEX 미국나스닥100 사지마세요",
-      "published": "2026-09-04T03:30:10+00:00",
-      "subs": {},
+    "ZG4IsDAxscM": {
+      "channel": "독거투자일지TV",
+      "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
+      "title": "코스피 폭등했지만 벤치마크 따라가기가 어려운 진짜 이유(독거투자일지)",
+      "published": "2026-09-09T05:06:59+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=ZG4IsDAxscM&ei=vuyhapO9L4WLkucPm-7NoA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021998&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=218865FD7F5A222798F3058EE2ABBBE346D9D6A3.C8708DEAB82FF68170CD706707FD884C22B05152&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "Zyr79pHQEzY": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "수면제 부작용 이게 제일 무섭습니다",
+      "published": "2026-09-09T14:15:11+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=Zyr79pHQEzY&ei=v-yhauLSJYS0kucPwfTLwQU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789021999&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=44BABE3AF7FC61AAD4A0AE66ACBB77177E312FF9.8ACAB0BA9FF07189D4C22101C360F515AB751233&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "X7MNOtrEryE": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "KT&G 자사주 기부 판결 국장은 아직 멀었다 (한국기업거버넌스포럼 김규식 이사) (2부)",
+      "published": "2026-09-09T12:25:34+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=X7MNOtrEryE&ei=wOyhaoryFte_kucPmcCnkQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022000&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=16A64C262C346FB6AAF8A101543D4B931F54E9DC.B9D130023D3F6636301A57308A1247812BC85C15&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "NSvMJyqUpQ0": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "삼성 25조 안 내면 내 대출 금리 오른다 (언더스탠딩 김상훈 기자)",
+      "published": "2026-09-09T07:55:04+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=NSvMJyqUpQ0&ei=weyhaszMB6a9kucPiNCzyAI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022001&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8C98581E47A68EDB3CF531805EE3C6B6A43E8488.71A85916C5B3BD91C02C921B80685E21C518E181&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "uCZcLBWrjlA": {
@@ -99,7 +157,9 @@
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "파나마 운하 막히면 사실상 대안이 없습니다",
       "published": "2026-09-08T14:15:04+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=uCZcLBWrjlA&ei=weyhatTMPJO1kucPgcnb6QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022002&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E6C3D1AAFEF1396FEBBCDAE235B5C6815680E4BC.B33F306AE212CC11164920554634AA267479F3E6&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "YeBr-8HN_5c": {
@@ -110,51 +170,12 @@
       "subs": {},
       "transcript": ""
     },
-    "IeFfKoJPhmA": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국 금리, 지금 안 올리는 게 더 위험합니다 (신영증권 김효진 박사)",
-      "published": "2026-09-08T07:55:01+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "5s8gEgUUYbw": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "수면제 띄엄띄엄 먹어도 될까요?",
-      "published": "2026-09-07T14:15:08+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=5s8gEgUUYbw&ei=mJ2gaq6tLqWWsfIP-4aXmQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936200&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6C8F8DF625A8E358297B482D98F5BB598161F0A5.663C41347B8DAF795BFBD8EA5364531F49AAE4C7&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "IrtIp2q7ltw": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국, 베네수엘라 유전 17곳 100년간 개발...유전 넘기는 것 아니냐 베네수엘라 국민들 화났다 (언더스탠딩 백종훈 기자)",
-      "published": "2026-09-07T12:25:06+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "R1U3_7fmdqk": {
-      "channel": "Aswath Damodaran",
-      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
-      "title": "The Scaling and Profitability Trade-off: Venture Capital's weakest link!",
-      "published": "2026-09-02T17:15:28+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=R1U3_7fmdqk&ei=nZ2gatX9DfqDt7EP2LOTEA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936205&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4D16C44653E7E8FBB498EF1D6EE2236E64C7AC3A.13392237D4CD07D9044AECCE361E89E274E17A0E&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=R1U3_7fmdqk&ei=nZ2gatX9DfqDt7EP2LOTEA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936205&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4D16C44653E7E8FBB498EF1D6EE2236E64C7AC3A.13392237D4CD07D9044AECCE361E89E274E17A0E&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
     "IUMUJgjDvU0": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "The Social Reckoning That Wasn't",
       "published": "2026-09-05T10:45:30+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=IUMUJgjDvU0&ei=np2garzaE_yKsfIP0p6CoA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936206&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9C3951B01C904827AE13CA6C47C02A88C35E4E9D.7E652DF52DB598EA8D23AEE5865A54C545B5A94B&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "subs": {},
       "transcript": ""
     },
     "PiWdnJAJ7Jc": {
@@ -162,7 +183,10 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "All-In on the S&P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong",
       "published": "2026-09-08T18:18:40+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=PiWdnJAJ7Jc&ei=0Oyhaor0LPeLut0P24_20Qs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022016&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C6813102C0620D22ED7D4E1DA46C8CA16B182808.36183678078B8885CC60F2AF3917B5602CEA1A9F&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=PiWdnJAJ7Jc&ei=0Oyhaor0LPeLut0P24_20Qs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022016&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C6813102C0620D22ED7D4E1DA46C8CA16B182808.36183678078B8885CC60F2AF3917B5602CEA1A9F&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "ks0DhmOPTj8": {
@@ -170,7 +194,10 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "The AI Demand Is Real. The Accounting Games Are Growing. How Long Can Both Be True?",
       "published": "2026-09-07T16:01:09+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=ks0DhmOPTj8&ei=0eyhav_fHMmRr9gPv_-m0Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022017&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=81552403DF4003BDD1530F3DD17A754A0B68D131.973CA9D4276432C15449A916D11DBDFE019CB6BB&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=ks0DhmOPTj8&ei=0eyhav_fHMmRr9gPv_-m0Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022017&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=81552403DF4003BDD1530F3DD17A754A0B68D131.973CA9D4276432C15449A916D11DBDFE019CB6BB&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "VWC6TRkVb0Y": {
@@ -179,7 +206,8 @@
       "title": "Buffett's Mistakes Had One Cause | The 100 Year Thinkers on the Hardest Part of Holding Forever",
       "published": "2026-09-06T14:08:11+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=VWC6TRkVb0Y&ei=p52gaoicJL6gsfIPtqmnuQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936215&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8C7DB876A64213B6EB8E683ABE341A3C60C0969C.086E1BEB47EC22FAA8C69F59664D340438F0B573&key=yt8&kind=asr&lang=en"
+        "ko": "https://www.youtube.com/api/timedtext?v=VWC6TRkVb0Y&ei=0uyhauCFDvm0kucP9bHUiQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022018&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B305493AEC8E6DD628014503FCE55D0062C47976.178D5B90F610D18F6F1AD95C04EF06994F6EB041&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=VWC6TRkVb0Y&ei=0uyhauCFDvm0kucP9bHUiQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022018&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B305493AEC8E6DD628014503FCE55D0062C47976.178D5B90F610D18F6F1AD95C04EF06994F6EB041&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     },
@@ -189,7 +217,7 @@
       "title": "Nvidia Is Betting on Its Customers. Gen Z Is Betting on Sports. Will It All Unwind the Same Way?",
       "published": "2026-09-05T13:04:09+00:00",
       "subs": {},
-      "transcript": ""
+      "transcript": "Those other podcasts, they're clickbait, but this is clickbait. Should market professionals have private conversations in public? Probably not. But if nothing except to prove that all we know is that we don't know nothing, we're going to do it anyway. Clickbait has three rules. We have one pre pre-agreed upon topic we pick in advance. Two, while we're live, nobody Googles nothing. And three, everybody brings a surprise topic to the table for which anything truly goes. Who's with me? He's the lightning rod roller coaster of the liveaction Dollywood that is this show. Not because he's made of wood or contains a 165 ft drop, but because he's made of good and probably could survive at least 165 in hop off a wall while hiking in the woods. Dave Noddig, how you doing? >> 165. That's pretty tall. I I think I'd definitely break an ankle. Let me tell you, wooden roller coasters on the internet. I was looking that one up and was like, damn. All right, got to go to Dollywood for that one. and she's probably been working 9 to5, possibly in the work hard or die trying girl sense. And I really hope I'm not the only Bob's Burgers afficionado here. But come on, tumble out of bed, stumble towards the kitchen, pour yourself a cup of ambition with us. Is she the ultimate combo of Dora Lee and Tess? Only one way to find out. It's Cameron Dawson. A great pleasure to have you both here with me today celebrating September Click Beta. This is our big topic. We've kind of done this before, probably 18 times, probably, you know, one and a half as it relates, but it keeps getting bigger. And it's this idea that everything is gambling. And when I mean everything, I mean ETFs, corporate strategy, financial planning. It seems like gambling is everywhere. And I want to discuss this because this whole DGEN evolution that is DGEN sometimes but not other times is freaking me out. Dave, can we start with you and just talk about >> I want to start with you because I think I suggested this mostly because I wanted to ask YouTube questions because obviously from my seat on the ETF side, I'm just watching all the filings of like NHL. I wrote a thing on NHL ETFs and all that stuff. We don't need to beat that dead horse. Obviously gambling risk is going to show up in financial markets and that I think has a set of issues I want to discuss. I was actually really thinking about this from the wealth management perspective like bulk's actually working with wealthy families right which is you know kind of a lot of the wealth industry um and I just know talking to a bunch of zoomers in my kids friends groups and that age that the sports betting thing has it's it's real like it has genuinely penetrated every level of Gen Z society in a way that I'm I'm sort of shocked by and I'm just curious what y'all's thoughts thoughts are on when that becomes a financial planning problem? Like at what point do you have to start having conversations with your families about protecting assets from gambling addiction inside the family? Because if it hasn't been a big issue yet, it seems like it's going to be. >> Oh, it's a big issue. I'm saying this stat because I wrote this down thinking about this because more and more financial planning conversations have actually contained a version of this. >> Oh, great. That's what I want to hear. So, for reals, Cameron, I want you to comment on this after, but I wrote down there's a Betterman survey that I saw that it was 26% of Gen Z investors view sports betting as a deliberate ongoing part of their long-term financial strategy. That 26%. >> And then CNBC, 52% of Gen Z investors surveyed had redirected money from investing towards sports betting during the preceding year. these check out anecdotally with my experience and it's been very interesting watching these fold into conversations. How are you guys talking about it Cameron? I mean, h has anybody shown people the charts of the distributions of the payoffs of these things of of look, I mean, this is it's such a it's such an incredible microcosm of behavioral biases and it's sort of like the lake will be gone on the all the steroids you could possibly find, right? Lake Wigggon where every child is above average. How everybody thinks that they're above average as a driver. Everybody thinks that they're going to beat the system. They're above average gamblers. And you know, getting people to break some of these habits. I was listening to Lincoln Park breaking the habit yesterday. So, this is good. Breaking the habits um often times comes uh in periods of after you have had periods of distress. You know, it's like in life, you learn the most from your failures versus your your successes. That you almost have to see experiences of pain in order for people to be realistic that, oh my gosh, probably I'm way overestimating my skill and way underestimating the role of luck, which is all these classic behavioral biases. And maybe we need to dust off Conaman and dust off all the other behavioral finance folks. Um, but do it in this new age of gambling. Maybe that's a piece we could work on together. That'd be cool. >> That would be cool. And I I have to say of all the people who I've never heard in a today in media journalism on steroids, Garrison Keeler on steroids. [laughter] >> Great poe chef's kiss [laughter] beautifully said. >> We would call it a peptide home companion. [laughter] >> Are we co-authoring this [laughter] paper? A peptide home companion. Yes. >> Oh, that's very good. That's very good. That may be a Zen cover. Okay, this is a Can we do a clickbait zen on a peptide home companion? I think I'm already now thinking of of segments for this show. [laughter] Could be problematic. The the conversational part and this was one of the first eye opening things for me was when people would come to the table. So, we get introduced to a client's kids or third generation or somebody comes in who says I want just the financial planning help. I don't have the asse"
     },
     "DgeLSAGEMes": {
       "channel": "Excess Returns",
@@ -197,7 +225,46 @@
       "title": "Bearish Into November. Room to Run After: Why Dan Niles Is Watching Hyperscaler Credit Default Swaps",
       "published": "2026-09-03T13:56:52+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=DgeLSAGEMes&ei=rJ2gaqj8DryRsfIPhozG-Q0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936220&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6DD9A83DD306D1B58BC47C72DBF94E6CD7CCDDD9.0EB61CC07E152EA8FD4D7231F64E3A5EB889E0C5&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=DgeLSAGEMes&ei=1eyhat-lKs7ZkucPq7yXyAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022021&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=81CDF4AF0061C70AD1FC76E3217EB09A5260D835.572453DCC13564969C4A567D15BA23C2DE1D97FC&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=DgeLSAGEMes&ei=1eyhat-lKs7ZkucPq7yXyAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022021&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=81CDF4AF0061C70AD1FC76E3217EB09A5260D835.572453DCC13564969C4A567D15BA23C2DE1D97FC&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "1ixzseervqQ": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "How Does the Mega Backdoor Roth Conversion Work?",
+      "published": "2026-09-08T00:59:42+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "Hf0xMzWLH3E": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "We Have to Get Way Stupider Than This",
+      "published": "2026-09-09T11:50:15+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=Hf0xMzWLH3E&ei=2eyhauXsJKWAkucPiMrtiQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022025&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=51F80476391880EE00C5AE2D0FB0F055DF226082.E166EE86CBA9AEC2E73D7468E710384A9E0C9F24&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=Hf0xMzWLH3E&ei=2eyhauXsJKWAkucPiMrtiQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022025&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=51F80476391880EE00C5AE2D0FB0F055DF226082.E166EE86CBA9AEC2E73D7468E710384A9E0C9F24&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "aCh3Un6whlk": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Everywhere Millionaires | Animal Spirits 481",
+      "published": "2026-09-09T10:00:29+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "MOEa-zjee44": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "$2,000 Foldable iPhone: Cop or Flop?",
+      "published": "2026-09-09T00:45:24+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=MOEa-zjee44&ei=3eyhasq1I9S0kucP8Zq_4QU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022029&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9D7388831FE3029AFA9723B282EB5F8FD057A917.568299B22F7A01955E9977E7F148509B7ED35142&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=MOEa-zjee44&ei=3eyhasq1I9S0kucP8Zq_4QU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022029&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9D7388831FE3029AFA9723B282EB5F8FD057A917.568299B22F7A01955E9977E7F148509B7ED35142&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -206,43 +273,10 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Stocks Aren't as Expensive as You Think | WAYT?",
       "published": "2026-09-08T21:48:57+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "1ixzseervqQ": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Ask The Compound 239",
-      "published": "2026-09-08T00:59:42+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "2J7t780pycM": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "What If We Don’t Have Another Recession This Decade?",
-      "published": "2026-09-07T13:29:17+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=2J7t780pycM&ei=vZ2garrsK7SRsfIP-fiouAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936237&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=0E5E54C2B088F371311F9E107919283DCDC0A7EA.7925973325CA0CB4265AA1B4A6912B215639932F&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=VwCMDR4BLrw&ei=3uyharWGFcW1kucPqK7RwAI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022030&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=736F7DB351904100BF2E7029B0A5330AC04D6EB0.1819BCB73839373EFB8D8F416203A65A3FF20342&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=VwCMDR4BLrw&ei=3uyharWGFcW1kucPqK7RwAI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789022030&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=736F7DB351904100BF2E7029B0A5330AC04D6EB0.1819BCB73839373EFB8D8F416203A65A3FF20342&key=yt8&kind=asr&lang=en"
       },
-      "transcript": ""
-    },
-    "NfzKHHFN1OM": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Why the Bears Keep Missing This Market",
-      "published": "2026-09-04T16:59:55+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=NfzKHHFN1OM&ei=vp2garaRIPa-sfIPkeHjkAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788936238&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=68C804D82FCC519F702A149A3B36D74FB12BCD04.BD6AF752331BF607AD142E39BC400DFEC47B7448&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
-      "transcript": ""
-    },
-    "fQIorYQNT2Y": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Stocks, Bonds, or Cash: What Would You Choose?",
-      "published": "2026-09-04T11:26:08+00:00",
-      "subs": {},
       "transcript": ""
     }
   }
