@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:29:13.608998+00:00",
+  "generated_at": "2026-09-11T23:36:14.676687+00:00",
   "count": 30,
   "videos": {
     "pQQ_xgoGjfE": {
@@ -8,7 +8,7 @@
       "title": "[월가아재] 미국 더 이상 못 믿겠다? 사우디의 뜻밖의 움직임 | 선거와 전쟁 2부",
       "published": "2026-09-10T09:33:28+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=pQQ_xgoGjfE&ei=izyjas2rDca0kucP86y3AQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789107963&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2C1DB42D815A44E31E6315313FB39B0FD40BBF85.9D41F35AC678FED4F403C345308190AD56FA133B&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=pQQ_xgoGjfE&ei=44-katKoHPuWsfIPkbPKUA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194835&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3528EA94BFFCD1B4F78FCD1602EC1AA7B1A8CAFA.23058744E3A1EC49EC57E9D3059D6FD214B81DF6&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -26,7 +26,7 @@
       "title": "[월가아재] 물가 4%여도 괜찮은 이유? 이제 인플레이션은 상수입니다",
       "published": "2026-09-07T07:56:37+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=qMl_sLOWO-s&ei=pDyjaq2hF5-0kucPwLCdoQs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789107988&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=09706A77B121F6F621AC1FFD578F1B971E2309C9.8ECEBE1E270EFADFDE14F06B207F2C4E093F1985&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=qMl_sLOWO-s&ei=7Y-kaqvOAouRsfIP46nq6Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194845&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C23972994130A2B431FCFD056E85079BBE3AF783.B4BF8D868DF81503694A3F2179F5270364E9B974&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -35,9 +35,7 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "조용히 미국에서 돈 빼기 시작한 주요국들, 거대한 자금 이동에 주목 받는 수혜주들",
       "published": "2026-09-09T10:34:59+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=GMpIu3c-kVc&ei=pTyjaqekGI6Lut0P_eWtyQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789107989&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=940E9600633AE2B9399C4518143BDABFBC04F5DC.7DB87CF076F820593B4363B11E558081EE5F9BFE&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "dGLEg3d6wdw": {
@@ -45,7 +43,9 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "피터 틸, 낸시 펠로시에 내부자까지 조용히 사모으기 시작? 강력한 힌트일까",
       "published": "2026-09-08T11:58:48+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=dGLEg3d6wdw&ei=-I-kauO-H4WUsfIPl4v5qAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194856&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=908C28F2B680FE15621297AE0B093EBB8D4BDB13.70283AF2EB71AD992DC606CA10D3A4D2ECDAEC6E&key=yt8&kind=asr&lang=ko"
+      },
       "transcript": ""
     },
     "e5EGbgAFna4": {
@@ -54,8 +54,16 @@
       "title": "끝판왕 AI 결국 등장, 오픈AI 아스트라가 증시 새 동력될까",
       "published": "2026-09-07T11:59:29+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=e5EGbgAFna4&ei=vDyjapGhFJiLkucPx6GkyQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108012&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=69B169FA9CD5D151F47E05C373B4CB4776AF1A44.435EBC64F5F4903F027B5ED46F4A319BC0BBE2B5&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=e5EGbgAFna4&ei=-Y-kavueEvmXsfIPx5fgiQ8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194857&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=91FEA4F88D54BA22269626E4C6449E9E53B755D3.E46E4857FC5CD0D63127B51F0EC5B6B548699244&key=yt8&kind=asr&lang=ko"
       },
+      "transcript": ""
+    },
+    "Ko3dah2R4Jc": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "왜 사람들이 ISA 만들고 투자하지 않을까",
+      "published": "2026-09-11T14:18:49+00:00",
+      "subs": {},
       "transcript": ""
     },
     "6kWOAdIXFeI": {
@@ -72,7 +80,7 @@
       "title": "달러환율 빠르게 떨어질 때 이렇게 합니다",
       "published": "2026-09-09T14:49:35+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=4GPkB5PhvIY&ei=xzyjaq7_K4K0kucP1ePS6AE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108023&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=33F1BA695F6D8F3C7901B4266945C1C5684DC959.50BF78F9FEE8EB6432BF3998B759E226BEEB8B10&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=4GPkB5PhvIY&ei=CpCkasKWFdfBsfIPofjeqAs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194874&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=95856043EDDB2DEDF79F0E2BD3D189BDC4B8C963.DCF24C31859F3F8D81810D64C3FA08ABBA0FBA6E&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -81,9 +89,7 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "20억 집 팔고 미국주식 몰빵 직장인 이야기 (사연)",
       "published": "2026-09-08T14:06:05+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=-0rI5eGL5yU&ei=zzyjaqn4Ia6BkucP_dPRuAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108031&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=104C41B6A7157D3773D131C28A9DD4110C7F8DA7.D2504CF05335F990478948E9DF6C534C04993B5D&key=yt8&kind=asr&lang=ko"
-      },
+      "subs": {},
       "transcript": ""
     },
     "wb1JaAJrf38": {
@@ -92,16 +98,8 @@
       "title": "한국인들이 놓치고 있다는 S&P500 장기투자 진실",
       "published": "2026-09-07T12:34:33+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=wb1JaAJrf38&ei=0DyjavOzEuyXr9gPstGo6As&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108032&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3B6DE72D68A3629115398FE68FC11EC12FA9CD1B.73D8A0A0D3B1ECDFA35A832C51437E599B34611C&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=wb1JaAJrf38&ei=GZCkapfiNOuXsfIPybOxuAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194889&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=30FD09CF143FDDBFF6E23D89B189C4ACF39205A0.C71D6D9DC6AA8BBAFACFA736DDCBE6353DA4CBAF&key=yt8&kind=asr&lang=ko"
       },
-      "transcript": ""
-    },
-    "-L5ebrvk0wM": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "연봉 5천만원 직장인이 배당금 8천만원 받으면 세금은..?",
-      "published": "2026-09-06T13:13:27+00:00",
-      "subs": {},
       "transcript": ""
     },
     "FAShtYwWB5Y": {
@@ -110,7 +108,7 @@
       "title": "모두가 낙관할때까지 주식을 팔지 말고 기다려라(독거투자일지)",
       "published": "2026-09-10T02:27:24+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=FAShtYwWB5Y&ei=4zyjaqfbKOOEkucPj_rs6Ag&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108051&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E864277597FCF8B778EB84CDE457FB941C3BA5A3.0AA537A980A1B21DAAA68386C142ADBDDE20A500&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=FAShtYwWB5Y&ei=I5Ckat6dJsjtsfIP45q3yAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194899&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=60605741C65DB848CBB8A62F920D30486985FD77.3C44C877C0FD6C5EEF385F3D0223A21905B19EE4&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -120,7 +118,37 @@
       "title": "코스피 폭등했지만 벤치마크 따라가기가 어려운 진짜 이유(독거투자일지)",
       "published": "2026-09-09T05:06:59+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=ZG4IsDAxscM&ei=6TyjavKRPPWCkucPjrzc8AE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108058&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=79442808A55A1DA8555530548563A908D8E0D95A.96CD5E302F38E2593E7DE0BAC1B7511154AFEEFB&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=ZG4IsDAxscM&ei=LZCkatGyBMfssfIP0pKM0Qw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194909&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=601D565EFC48A430765518C638E3529357D7D235.49540D794660EF3391A3A54C03D6631063440BB7&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "PEmN9slNKOA": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "미국 금리, 지금 안 올리는 게 더 위험합니다",
+      "published": "2026-09-11T14:15:17+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=PEmN9slNKOA&ei=M5Ckav7XNqvZsfIPzeu88QQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194915&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4DA21BB962B64EEEA375C5B7CE482B0DFA0EAFB3.C6DD2EC3563219B0E30FCD80192B011E432D30B6&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "zBJc3jBX4Qo": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "200% 아르헨티나 물가, '미친' 대통령이 잡았다 (석소리 아르헨티나/뉴욕 변호사)",
+      "published": "2026-09-11T12:25:25+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=zBJc3jBX4Qo&ei=NJCkasyrKKaZsfIPvqiEiAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194916&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2BAF495E203931FD23F906BA9A077765FF349790.6B08B059F21C62C54AFA84F4D5BA6F53C13FC1D9&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "J5Vd023EFXY": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "트럼프가 중간선거에서 지면 이 종목을 봐야 합니다 (한동대학교 AI융합학부 김학주 교수)",
+      "published": "2026-09-11T07:55:18+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=J5Vd023EFXY&ei=NZCkavrvGP7BsfIP1a2AWQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194917&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B42DD4502C5CFD3506B60E47E0614B27FE411BF5.2DC9A24C09F2556730FC0E80AAFABE6EB1D456B1&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -138,34 +166,8 @@
       "title": "챗GPT 아스트라, 이런 게임 만드는데 딱 13분 걸렸습니다 (IT커뮤니케이션연구소 김덕진 소장)(1부)",
       "published": "2026-09-10T12:25:03+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=CwBvAHBG2cU&ei=_zyjateGIInjy_sP96Wa8Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108079&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ECB7B5BC933835E1FE86E76440704F140932427B.AE537AD9F5D5B5E7CEB349C83AF053A4820C53C6&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=CwBvAHBG2cU&ei=OZCkaqS8Nfr6sfIP2-Do4Aw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194921&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1B280436233271E1CC1FF99B715B76FFFC58EAC5.8B691623EA02882AA0ECBF7706CF688098497E01&key=yt8&kind=asr&lang=ko"
       },
-      "transcript": ""
-    },
-    "1b6rKiowwIo": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "휘발유마저 건드렸다 이란 폭발 직전이다 (언더스탠딩 장순원 기자)",
-      "published": "2026-09-10T07:55:32+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=1b6rKiowwIo&ei=AD2jasP-EvqBkucPw5bo8Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108080&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D5B3DCC819CC151F326D688E9937545E5C17024E.C96916AD6F34C9DB3F26BEC5945821B3E8323E2D&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "Zyr79pHQEzY": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "수면제 부작용 이게 제일 무섭습니다",
-      "published": "2026-09-09T14:15:11+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "X7MNOtrEryE": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "KT&G 자사주 기부 판결 국장은 아직 멀었다 (한국기업거버넌스포럼 김규식 이사) (2부)",
-      "published": "2026-09-09T12:25:34+00:00",
-      "subs": {},
       "transcript": ""
     },
     "sPUonzHWZEY": {
@@ -173,7 +175,9 @@
       "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
       "title": "Interest rates and Stock Prices:  An Old Market Debate Replayed!",
       "published": "2026-09-10T16:06:09+00:00",
-      "subs": {},
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=sPUonzHWZEY&ei=Q5Ckav60LKGYsfIPpZrMsQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194931&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3632DDE129E2EC27021FBCD8658093F0DD2FFF94.F02F5B926AB01A47297B5C43584D647C96FBD47B&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "IUMUJgjDvU0": {
@@ -181,9 +185,15 @@
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "The Social Reckoning That Wasn't",
       "published": "2026-09-05T10:45:30+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=IUMUJgjDvU0&ei=Ij2jaqPtM8q1kucPxqS2kA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108114&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A557137A659C84EB2BBCF67F6F3D60FFB80D1F09.1560269ECE06DC193D96B80D6CC69FD38AE6A02F&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "subs": {},
+      "transcript": ""
+    },
+    "NOsfzM4-T10": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Big Rally Collides with Oil and Rate Reality | What the Options Market Says Comes Next",
+      "published": "2026-09-11T19:05:08+00:00",
+      "subs": {},
       "transcript": ""
     },
     "FuJ3jxLZauI": {
@@ -192,7 +202,7 @@
       "title": "The 40-Year Bond Bull Is Over. Your 60/40 Didn't Get the Memo | The Bet Hiding in Your Bond Fund",
       "published": "2026-09-10T17:13:47+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=FuJ3jxLZauI&ei=Iz2javCrMaK0kucPmbKe8Ag&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108115&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=58FCE5C0DCC847BAEEA4D6D5D86F8B4E54F0641E.D405AAB71D277FEFE9B7698F58640276300367BF&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=FuJ3jxLZauI&ei=U5Ckaq2jJKWvt7EPn4CMqAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194947&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5150654E5692A35273250FA9C373B9CD999F8008.1999E987CE272F64BDC36A682F2AD8AC01C5A507&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     },
@@ -201,8 +211,10 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "All-In on the S&P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong",
       "published": "2026-09-08T18:18:40+00:00",
-      "subs": {},
-      "transcript": "You're watching Excess Returns, a channel that makes complex investing ideas simple enough to actually use where better questions lead to better decisions. Who's with me today? Well, we've got, let's see, from Lehman to Daily Dirtnapping to DJ Stchicking with 18 books, four billion blog posts along the way. Here to discuss the newest book and what we can apply from it even today in these wacky markets. It's the awesome portfolio author himself. Hold it up, Mr. Jared Dillian. >> Yes. Yes. I I have the same birthday as Ed McMahon, so I can go. Yes. >> It is your birthright, your god-given birthright, sir, to Ed McMahon. So, it's a great book. I'm just gonna start. I want to start here. This is a great book. This is one of the better portfolio books that I think has come out in a while. I'm not saying like the psychology of money and those things sort of took us all in this other direction, but this is like a really really good portfolio book. Do you realize what you did with this? >> I really don't actually. Like it's funny because um I the so when No worries came out, god I did I did like a billion podcasts and maybe maybe not a billion but I did like 75. It was a lot and >> 75 is a billion in podcast years. It's like a dog ear conversion. You just got >> So like I got a lot of feedback on the book. Like I haven't done as many podcasts this time. Not that many people have read it. I really don't know. Like I don't have a lot of feedback on it. I don't I don't I mean people tell me it's good but I you know I don't know. >> You said something obvious with a bunch of nuance footnotes and everything in between. So we're going to get into this but let me let me start you here because we've talked a lot about these things. There's other episodes. Go look up our back episodes on this stuff. 27 Years on Wall Street.com crash financial crisis pandemic selloff. And this is not a book that is here's how to pick better stocks. This is a book about how most people approach investing right now is not wrong but broken. Explain why this book needs to be out there. >> Uh actually I would disagree with you. I don't think what's going on now is broken. I think it's wrong. I think I think it's two different things. So >> okay, let's do it. So what people have been doing has worked for the last 20 years or 18 years. Like it has absolutely worked. People need things to be simple. They have a desire for simplicity. And if you give them very simple instructions, if you say put all your money in the S&P 500, dollar cost average it, hold it forever, that's very easy for people to understand, right? and they've done that for the last 20 years and the results have been fantastic and I do think there's some um reflexivity there. I think it has worked because people are doing it right for sure. Um but it's wrong. And the reason it's wrong is um and maybe I'm just more conservative, but I don't want to trust my entire life savings to the stock market. Like this is this is kind of new in history. Like this is like this wasn't happening in the 50s, 60s, 70s, even the 20s. Like where people put their entire life savings and trusted it to the stock market and said look it's returned 10% for the last 100 years. It's going to return 10% for the next 100 years. And even if that happens, when you invest in an index, you get the volatility of the index, which can be really unpleasant. Like even on an average day, the S&P moves a percent. Which is a lot. Like for your life, like let's say you had your life savings was $600,000. Something that goes up and down $6,000 is quite a bit of volatility, you know. Um so the rest of the world looks at us and thinks we're nuts. that Americans do this. They put all their money in stocks. They don't do it in Europe. Mostly they invest in bonds or in the bank. Uh you know, Japan, Japan is started reinvesting in stocks recently, but they avoided it for a number of years. Like we are crazy gamblers. We take huge amounts of risk. And the problem is is that even if stocks go up 10% in perpetuity, you're going to get some big bumps along the way, which is going to happen, which affects your psychology, which is going to cause you to do suboptimal things. That's the problem, right? The the quote I have here is volatility is the enemy. I love this quote, by the way. Volatility is the enemy. The purpose of volatility is to make people make stupid decisions. >> Yes. The idea that the volatility forces errors of judgment on the market participants, that's that's part of the problem here, right? That's part of the problem that people are trying to figure out a or should be trying to figure out a way to deal with that you're trying to help with the book. >> Yeah. Um, it's that like like I want to prevent the errors of judgment, but even to the extent that people don't make errors in judgment, I want to prevent unhappiness, right? Because if you're just longing the S&P 500 and you get a 20% draw down, you're going to be miserable. It's going to cause you stress. You're going to be thinking about it. You had $600,000. Now you have $480,000. if you lost $120,000, which is a lot of money for, you know, even somebody who's upper middle class and you're going to be thinking about it and you're going to be miserable until you get back to the high water mark, right? So, you're going to spend x amount of your time over a 40-year investing year uh 40-year investing career miserable, right? Doesn't have to be that way. Awesome portfolio, very minimal draw downs, half the volatility of the stock market. It It doesn't have to be that way at all. >> Let's define it. Let's define it and then I want to throw out another piece of stats. Define exactly what the awesome portfolio is. Is this showed up in a prior book, but now you've dedicated a whole book to this topic. Explain. >> Yes. So, it's 20% each in stocks, bonds, gold, cash, and real estate. That's all it is. Why? Why is it not the permanent portfolio? >> Okay, so"
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=PiWdnJAJ7Jc&ei=VJCkaqSBF4bBsfIPw-_PeA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194948&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C3258DDA4E708902966DE18D6FDD6FEFAD5C4693.3675B84D4DF2143EB4E5DDE5B9BB4185ACA3689C&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
     },
     "ks0DhmOPTj8": {
       "channel": "Excess Returns",
@@ -210,7 +222,7 @@
       "title": "The AI Demand Is Real. The Accounting Games Are Growing. How Long Can Both Be True?",
       "published": "2026-09-07T16:01:09+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=ks0DhmOPTj8&ei=KD2jat6NCpCAkucPldHLqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108120&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=DEB6AD16FCEF294207D46EBD0C5E7C9DCA60E00F.672A8B7E5B27008AE4BC477B2503BEC59EF464BB&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=ks0DhmOPTj8&ei=VZCkavjaCcj8sfIPy7ns0AE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194949&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9B73CA1835BE6D661D4B813611C6DBAC71BD9AE0.0E17A653E4F02B677A858A37F4BE17F5E5FE732D&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     },
@@ -219,17 +231,37 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Buffett's Mistakes Had One Cause | The 100 Year Thinkers on the Hardest Part of Holding Forever",
       "published": "2026-09-06T14:08:11+00:00",
-      "subs": {},
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=VWC6TRkVb0Y&ei=VZCkat6HOqj4sfIPgKzw8A0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194949&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9A6373EDCC1D0828164A5597983CDA583188682C.853E7FC3FD98E5640D16C8F484BBDF0965E47202&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
-    "8uLWJHDjmvA": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Nvidia Is Betting on Its Customers. Gen Z Is Betting on Sports. Will It All Unwind the Same Way?",
-      "published": "2026-09-05T13:04:09+00:00",
+    "JJfG6tqIhrc": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Should Ben Bring Back the Mustache?",
+      "published": "2026-09-11T19:48:07+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=8uLWJHDjmvA&ei=Oz2jauvWBLK_r9gPrdWv2A8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108139&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A4BAA051487ED8D0F94A255D94787F0105F372CD.068222772183C4FE8B6C1776B5BB3C51288787DB&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=JJfG6tqIhrc&ei=V5CkavWWEoSVsfIPwfufkQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194951&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C754E79C23BD49E3C8609D7CE127DB4BE34831CD.DC9513B54CACD0B81D873E2E80FF0443B50F2490&key=yt8&kind=asr&lang=en"
       },
+      "transcript": ""
+    },
+    "XItYluh4jjI": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "What Country Has the Worst Debt Metrics?",
+      "published": "2026-09-11T19:09:48+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=XItYluh4jjI&ei=YJCkaqSlNJaVsfIPjeGuuQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194960&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CB9F21A392C7743A9A7E57F0CE11A07E60AF008D.54630CF8715C54AFFA7E6E4203954301E6E3447C&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "Dkwb6n4fRLw": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "The Most Interesting Macro Moment of My Lifetime | TCAF 259",
+      "published": "2026-09-11T10:00:02+00:00",
+      "subs": {},
       "transcript": ""
     },
     "Uou5HxG1msM": {
@@ -237,9 +269,7 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Josh Brown on Apple's Foldable iPhone",
       "published": "2026-09-10T17:52:59+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=Uou5HxG1msM&ei=PD2jatTWAtj5ut0P6rGYkAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108140&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7F2384F2E35404B43FCE70EA09A3C1B09D00C2A2.52EBE9115B0B03AD56DC6221ABA07B71737881A5&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "subs": {},
       "transcript": ""
     },
     "1ixzseervqQ": {
@@ -248,35 +278,7 @@
       "title": "How Does the Mega Backdoor Roth Conversion Work?",
       "published": "2026-09-10T05:44:55+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=1ixzseervqQ&ei=PD2jauWcMpGKr9gPjY3vyAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108140&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=25365F3A8EFB9FD946F7E440DE7988B63C285905.1F712670E5E885A1C623E97182502CF719280F40&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "mur_0o7QEm8": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Why Are Investors Afraid of Higher Rates?",
-      "published": "2026-09-10T00:17:26+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=mur_0o7QEm8&ei=PT2japHHIqKBkucPirv84AI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108141&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=71A0EEDD32F7AE0B46601DEA01FC6E5D488075CB.96B24A2370F444B9870E6A826CF3132DBD9031D8&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
-      "transcript": ""
-    },
-    "Hf0xMzWLH3E": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "We Have to Get Way Stupider Than This",
-      "published": "2026-09-09T11:50:15+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "aCh3Un6whlk": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Everywhere Millionaires | Animal Spirits 481",
-      "published": "2026-09-09T10:00:29+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=aCh3Un6whlk&ei=SD2jarHkOqq_kucPweKGgQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789108153&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=25A6CE38B7AD4F8AF7D42A3F44ADF9CF0975D953.6CFDF2CD98BE06465F9BE8D136D597395D733E81&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=1ixzseervqQ&ei=bpCkauygA5aEt7EP3ZvWoAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789194974&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D070470D770000831E695A428D85EC778C48E7.0AD5B77A5740D9254908856E7272F743B9BBAD2D&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     }
