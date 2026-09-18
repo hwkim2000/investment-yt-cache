@@ -1,235 +1,43 @@
 {
-  "generated_at": "2026-09-17T23:45:59.899666+00:00",
-  "count": 30,
+  "generated_at": "2026-09-18T23:38:45.212484+00:00",
+  "count": 5,
   "videos": {
-    "OOTilReLol8": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 30년 3000% 수익률의 전설 \"지금 금리는 낮습니다. 그런데 AI는 걱정됩니다\"",
-      "published": "2026-09-17T09:42:59+00:00",
+    "YkC6WYFhU2Q": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "BTS with Tom Lee and Dan Ives",
+      "published": "2026-09-18T21:50:27+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=YkC6WYFhU2Q&ei=fcutaoSuKrGBkucPrtbQoAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789799917&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=49F7CD5E9F0CD19BF0DA67CBC5AE09A1326137EF.2250D7CAEB261A1815625CD1633FB7C6B9B377C1&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "NqtIygAlLfE": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "The Stock Market Keeps Saying Everything’s Fine",
+      "published": "2026-09-18T21:08:05+00:00",
+      "subs": {
+        "en": "https://www.youtube.com/api/timedtext?v=NqtIygAlLfE&ei=fsutapPiIYGBkucPv_Xv2Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789799918&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4DEC5D068025E056330410985F300D20052BD047.66C37680177BFF1AB600A7FD8371CE539A13FF16&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "hkG6Qizd5oM": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "The Tech Bull Market Is Just Getting Started",
+      "published": "2026-09-18T21:04:20+00:00",
       "subs": {},
       "transcript": ""
     },
-    "lDrAV4HporE": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 금리 인상은 기정사실? 같은 25bp가 아닙니다. 9월 FOMC 프리뷰",
-      "published": "2026-09-15T11:43:25+00:00",
+    "ChZhV1jKbRE": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Tom Lee and Dan Ives Explain Everything | TCAF 260",
+      "published": "2026-09-18T10:00:12+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=lDrAV4HporE&ei=enusav_pG4GEut0P2q7FyQ8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713898&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7185A422A88897A9882E8FFBA93EDA86FDAE97C6.56FD0D1B1B46A6774AFE4E3D295D11098D828246&key=yt8&kind=asr&lang=ko"
+        "en": "https://www.youtube.com/api/timedtext?v=ChZhV1jKbRE&ei=g8utapfiK4Cl0_wP6daeqAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789799923&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=168C2C25A79C9851EE97BF2FB8D07AEB34B268D4.A2861374EB34494034FB09BF448BF59136EBF35B&key=yt8&kind=asr&lang=en"
       },
-      "transcript": ""
-    },
-    "1eV18vbBzZE": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "챗GPT, 끌로드 더 이상 못믿겠다? 자체 AI 구축 열풍의 새로운 수혜주들",
-      "published": "2026-09-17T09:35:49+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=1eV18vbBzZE&ei=e3usaqrDJMu0kucP7dvA8Qo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713899&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6FE3E00AA41B15391B8BDD52129567D2459CAD6A.97D49142BD419D5D150217E867C99FF0217E6406&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "mo2ukCmz_uc": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "금리 더 올라도 미 증시 끄떡없다? 월가 초고수의 베팅, 적중할까",
-      "published": "2026-09-16T09:52:42+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=mo2ukCmz_uc&ei=fHusauD2H5qHkucPj8vM2Q4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713900&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=AB9304DB1701EA4E5A2F2FB893247F0D682EF517.88CF3F461959FA618E2EFD0FE13F3B6D528BF07D&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "dBY4dYC-yzI": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "선거 앞두고 급하게 돈 뿌린다? 트럼프 초강수의 수혜주들",
-      "published": "2026-09-15T09:10:27+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "3ND2sRBMoNQ": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "다같이 AI 투자 속도 늦추자? AI리더들의 깜짝 제안, 증시 흔들까",
-      "published": "2026-09-14T09:13:26+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=3ND2sRBMoNQ&ei=gXusatOiC7-hzLUP3aOP6QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713905&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C9D5BD9E0948425019831A84676355C6AD062CE8.2B5A6BF1CDEE44F68C42C54617B5106AFF29FF57&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "SGzVweq0ILU": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "4인 가족은 파이어 하려면 최소 이만큼 모으자",
-      "published": "2026-09-17T11:13:40+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "1uJzVu7Bcto": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "20억 아파트 팔고 미국주식 몰빵 괜찮을까 (사연)",
-      "published": "2026-09-16T03:30:31+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "hv2-RrwC_JM": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "AI, 반도체 많이 떨어지는데 지금 미국주식 추매할까?",
-      "published": "2026-09-15T10:50:35+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=hv2-RrwC_JM&ei=iXusati1IvWCkucP8fahkA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713913&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7EFF9B4AB116B78D2505596FFBE44931A3FB87E2.9CCE4A41BCEE10C06234DBAD66A9AE8D03109A7B&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "4SMJkeitTSQ": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "한국판 SCHD 배당금은 왜 줄었죠?",
-      "published": "2026-09-15T06:30:24+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=4SMJkeitTSQ&ei=inusaoWbJPaGy_sPv9zIqQ8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713914&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=525FB370D10E800EA013C86FEC14DAC25837B105.C6EDB65B3E524AAE65B3761FD823F60604449A6E&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "fZkYgFiJ7_Q": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "저는 이때부터 달러환율 추가로 시작합니다",
-      "published": "2026-09-14T10:57:46+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=fZkYgFiJ7_Q&ei=i3usaprsF9-9kucPp4jruQ0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713915&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=80058D970F9FD9418BB42EC967A58A1E8DAE6028.BE2C7EA5FF450D651DF94964CF3D6FAA45CE874D&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "nt7L7kC0OpE": {
-      "channel": "독거투자일지TV",
-      "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
-      "title": "3분기부터 나오는 중국 반도체 기업들의 점유율 상승 위협, 쇼티지 다음은 치킨게임, 중간이 없던 반도체의 사이클의 역사(독거투자일지)",
-      "published": "2026-09-16T02:17:29+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "coAe_a45WLE": {
-      "channel": "독거투자일지TV",
-      "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
-      "title": "전쟁이 끝나면 배당주들은 폭락할 가능성이 있습니다(독거투자일지)",
-      "published": "2026-09-15T09:35:22+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=coAe_a45WLE&ei=j3usasONLrCLkucPgf6Y8QE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713919&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BDCC6BDB9060988707F1DCA0CA9172D61DEC9E7E.D853B666AB10B9701938D5A5F2A4D36B307B0DBE&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "BmuLmL3LL_8": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "중국차 밀려오는데 한국만 엉뚱하게 돈 쓴다 (더불어민주당 이언주 의원)",
-      "published": "2026-09-17T12:25:26+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=BmuLmL3LL_8&ei=kHusatWYK8uZy_sPg8PV2Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713920&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9A75E83C1CD0B4AAF0999167DD2E44A5FC639DE2.B6DE2CE8B9AE785EB96C6AC2B5E2F516435CD191&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "hQZOqFR-qUw": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "어느 날 현대차 엔진이 깨지기 시작했습니다 (김광호 전 현대자동차 부장) (1부)",
-      "published": "2026-09-17T07:55:13+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=hQZOqFR-qUw&ei=kXusauHZIO-BkucPqba-wAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713921&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=49A40CD22ED061F8D73E77DD1E5EBC9AD3E7BC0E.EB9D405C3FE4812683E5FD48C29EE6FE9627333C&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "fl-uuEuxOFU": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "밤에 먹는 보약이 낮에 먹는 라면보다 더 나쁘다",
-      "published": "2026-09-16T14:15:11+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "smDRmdQ19SY": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "사우디까지 막혔다 유가 진짜 큰일났다 (언더스탠딩 김상훈 기자)",
-      "published": "2026-09-16T12:25:29+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "5nKuSTrLq2Q": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "금리만 보면 안 된다 증시 최악의 조합 (AFW파트너스 이선엽 대표) (2부) | 26년 09월 14일 녹화",
-      "published": "2026-09-16T07:55:06+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=5nKuSTrLq2Q&ei=mnusasqbHLmIkucP7tzMkAU&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713930&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A88B99D267968246BAC3980316D152BC0D832ADC.9CACC1AFEBA725F5BBDD00E4609775D7C6E97A27&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "ajH6YVhdOZU": {
-      "channel": "Patrick Boyle",
-      "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-      "title": "Why Germany Stopped Working",
-      "published": "2026-09-12T11:45:06+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=ajH6YVhdOZU&ei=m3usas3CG6iEut0Po9vJuQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713931&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B5BE52B0E6754630FE1B460F43823548734F2B84.D5E2D0832F6C9B38B0D93C80AB4FF9764CAE29A6&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "WXbt_0j1YRA": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "We Asked David Rosenberg Why He Wants the Bonds Everyone Hates — and Where He's Hiding in Stocks",
-      "published": "2026-09-17T18:38:47+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=WXbt_0j1YRA&ei=nHusaruYGqORr9gP-rWq6A0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713932&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C81272448099D5D7B74D3DA31497701977EB19F5.3A7CF6ACC316201B9EE65782F9F5756DF4426DF4&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "MqT9ou6ZObk": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds",
-      "published": "2026-09-16T18:14:37+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "Y53vFXXrmLI": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "The List Is Public. It Still Outperformed For 28 Years | Alex Edmans on What Markets Don't Measure",
-      "published": "2026-09-15T19:47:28+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "pJ1mSMbAu_s": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "The Moats Are Invisible. So Is the Risk in Your Bond Fund. What Else Can't You See?",
-      "published": "2026-09-14T13:46:24+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=pJ1mSMbAu_s&ei=pHusasbqAbi1kucPsrPHiAE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713940&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C97BCB7A4CFD1F830F3EE44AC5A7D7BFABABB50E.CD752B6099D8DC60D7DE2ECC1AD6954DBE9E0137&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "La88qSK0M-U": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Jim Paulsen Sees a Tech Bear Market Coming | The 27 Charts Behind His Warning for Stocks",
-      "published": "2026-09-13T14:30:05+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=La88qSK0M-U&ei=pHusavv0MdWEkucPo9KNyA4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713940&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C1E5ACF06E1D3A6BF63B5A86B78D3DCAC4B7CEA8.1B1DB0B181A7942DC8B5EEF79369BD19CC4349CF&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "TdKK1f21xvA": {
-      "channel": "Ben Felix",
-      "channel_id": "UCDXTQ8nWmx_EhZ2v-kp7QxA",
-      "title": "Who You Marry Is a Financial Decision",
-      "published": "2026-09-13T10:00:38+00:00",
-      "subs": {},
       "transcript": ""
     },
     "nhbPCISBpqY": {
@@ -237,41 +45,9 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Are Miami Vices Actually Good?",
       "published": "2026-09-17T19:21:08+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "9av6FNPWKT4": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Should You Pick Stocks or Buy Index Funds? | ATC",
-      "published": "2026-09-17T17:00:04+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "eM3Uuxh8dP0": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "How to Talk To Your Clients About Ray Dalio | Animal Spirits 482",
-      "published": "2026-09-17T10:00:13+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "JLhVhZAQ_Cc": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "New Tropical Bros Polos Just Dropped!",
-      "published": "2026-09-13T13:05:07+00:00",
       "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=JLhVhZAQ_Cc&ei=s3usatCUGN61kucPvoqToQ0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789713955&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C219CB8FD530FA293849466B48DC4D9AD42DB15E.6133F06F1FDB8BF60BD493E3F0996935613D4B93&key=yt8&kind=asr&lang=en&variant=gemini"
+        "en": "https://www.youtube.com/api/timedtext?v=nhbPCISBpqY&ei=hMutaoiRJJeBkucP4q2yqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1789799924&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ADF3F8A4E78833BC9B9B1533C36746E04509302B.6F16F8B4A8F57F45910C7C1320D9C974189C0782&key=yt8&kind=asr&lang=en&variant=gemini"
       },
-      "transcript": ""
-    },
-    "13BZK2Xw8NM": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "You’d Think This Was AI",
-      "published": "2026-09-12T19:27:31+00:00",
-      "subs": {},
       "transcript": ""
     }
   }
