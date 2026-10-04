@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T00:47:37.411108+00:00",
-  "count": 29,
+  "generated_at": "2026-10-04T00:09:45.755503+00:00",
+  "count": 28,
   "videos": {
     "CRHZT9MkOPA": {
       "channel": "월가아재의과학적투자",
@@ -15,16 +15,8 @@
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 이젠 남유럽보다 프랑스가 더 위험하다? 치솟고 있는 금리",
       "published": "2026-09-29T08:05:39+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "qJ7BUS7fT4s": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 30일만에 투자 기초 다지기 5시간 몰아보기",
-      "published": "2026-09-26T06:46:14+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=qJ7BUS7fT4s&ei=TFDAapH8KJORsfIP2o2W2QI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791013564&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D8C19B41FFD68C3C0B44A195033E24736E22DB4.855B06A3151996FDBCEDFF34FC91BABF602B6766&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=m3xSXzmo5YE&ei=7pjBapKZE5T7zN0PzJf30Ac&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097694&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A3690ED7305EAD42C9A3352B9C676B21C8C0CC80.BA8CE5FC361948404BE8CFA7D7850162819BA97D&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -33,7 +25,10 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "초고금리 뉴노멀 시대에 대비하라? 월가 초고수의 깜짝 예언, 적중할까",
       "published": "2026-10-01T12:02:43+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=2cduC5_rK9I&ei=75jBas-AG_WxzN0Pi6_I8Q4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097695&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8C77955575897C256F634971EF1B3FCE04B51C11.B07954AE50A1AB6563DC451AAF5DB3843C8F2EEF&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=2cduC5_rK9I&ei=75jBas-AG_WxzN0Pi6_I8Q4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097695&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8C77955575897C256F634971EF1B3FCE04B51C11.B07954AE50A1AB6563DC451AAF5DB3843C8F2EEF&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "kiQ_USot1go": {
@@ -41,7 +36,10 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "사상 첫 우주 데이터센터 시작, 구글 스페이스X의 승부수 먹힐까",
       "published": "2026-09-30T11:34:25+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=kiQ_USot1go&ei=8JjBauHEFbKFut0PvIPs0QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097696&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7A4E2A17E3E26353EEA741BF5E7F5F247D023529.AEDC9882304E78E0A05CB57945248AD24370C486&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=kiQ_USot1go&ei=8JjBauHEFbKFut0PvIPs0QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097696&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7A4E2A17E3E26353EEA741BF5E7F5F247D023529.AEDC9882304E78E0A05CB57945248AD24370C486&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "Cswz8biSRHs": {
@@ -57,6 +55,14 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "메타의 승부수에 깜짝 놀란 증시? AI 3차 변곡점의 새로운 수혜주들",
       "published": "2026-09-28T12:10:04+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "V-jA-SQtNEg": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "2억 5천만원으로 파이어 할 수 있는 방법?",
+      "published": "2026-10-03T03:00:05+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -92,19 +98,38 @@
       "subs": {},
       "transcript": ""
     },
-    "hbW9rHdlxn0": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "대한민국 30대 순자산 진짜 평균",
-      "published": "2026-09-29T04:15:08+00:00",
-      "subs": {},
-      "transcript": ""
-    },
     "nSllUnZJODI": {
       "channel": "독거투자일지TV",
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "한국 미국 반도체 종목들은 왜 PER 7배 이하에서 움직일까? 이게 적정가일까?(독거투자일지)",
       "published": "2026-09-28T07:25:18+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "bSz8CMjo1oY": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "정전되면 죽는다 기적의 한국 전력망",
+      "published": "2026-10-03T14:15:02+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=bSz8CMjo1oY&ei=D5nBarqXE5qY-coP3e-ZwAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097727&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=F10133CBE8E2D3598CD68DC9EFED1D09D3477298.547D4EF3E2A5C594952E8A2662EED5B44A74C1BE&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=bSz8CMjo1oY&ei=D5nBarqXE5qY-coP3e-ZwAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791097727&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=F10133CBE8E2D3598CD68DC9EFED1D09D3477298.547D4EF3E2A5C594952E8A2662EED5B44A74C1BE&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "6ffvuZ1RBYc": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "[김정운 박사 3시간 몰아보기] 놀고 와도 우울한 당신. 감탄이 없어서다 | 말하지 않고 말하기 | 문화심리학자 김정운 박사",
+      "published": "2026-10-03T11:55:15+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "VgYG-4UyH4Q": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "부자인 게 죄인가. 70년 무시당한 천재화가 이대원 (아츠인유 이세라 대표)",
+      "published": "2026-10-03T05:55:25+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -124,35 +149,19 @@
       "subs": {},
       "transcript": ""
     },
-    "Sbsyqcwy17E": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "이럴 거면 하지 마라 개미 뒤통수 치는 의무공개매수법 (얼라인파트너스 자산운용 이창환 대표)",
-      "published": "2026-10-02T07:55:05+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "BuPm162MW9c": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "허블vs제임스웹vs로만 우주망원경 비교",
-      "published": "2026-10-01T14:15:18+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "SNSn3h1K9X8": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "너무 싸진 중국 로봇 진짜 무서운 건 따로 있다(KB증권 아시아시장팀 박수현 팀장)",
-      "published": "2026-10-01T12:25:06+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "T-oXyXwD6sE": {
+    "LF8kY5BLe_o": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-      "title": "Anthropic Just Filed to Go Public. Does the Math Add Up?",
-      "published": "2026-09-26T11:05:32+00:00",
+      "title": "Turkey's $20 Billion Fund Collapse Explained",
+      "published": "2026-10-03T11:02:13+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "6acdbpyIEjs": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "The 10-Year Hit a 24-Year High. Nobody Is Buying Puts. Are You Watching the Wrong Market?",
+      "published": "2026-10-03T14:10:49+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -180,19 +189,27 @@
       "subs": {},
       "transcript": ""
     },
-    "5bXUBAPRvr0": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Jobs Look Strong. Workers Are Disappearing | Why Eric Pachman is Watching Diesel Prices",
-      "published": "2026-09-26T13:28:16+00:00",
-      "subs": {},
-      "transcript": ""
-    },
     "E7pl0tqzIUQ": {
       "channel": "Ben Felix",
       "channel_id": "UCDXTQ8nWmx_EhZ2v-kp7QxA",
       "title": "The Truth About Leveraged ETFs",
       "published": "2026-09-27T10:00:35+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "PGkxUqMuy3Q": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Why We Need Some Inflation",
+      "published": "2026-10-03T14:35:21+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "APMiYiqIgTY": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Gen Z Is Operating With 40% Less Time",
+      "published": "2026-10-03T02:06:13+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -217,22 +234,6 @@
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "Is Gen Z Completely Cooked? | TCAF 262",
       "published": "2026-10-02T10:00:09+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "v3AtjmEpGqA": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Tax the Robots",
-      "published": "2026-10-02T01:13:17+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "W_LAOS-Oarw": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Why Old Tech Stocks Are Winning Again",
-      "published": "2026-10-01T21:12:21+00:00",
       "subs": {},
       "transcript": ""
     }
