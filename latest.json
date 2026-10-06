@@ -1,175 +1,16 @@
 {
-  "generated_at": "2026-10-05T00:14:47.215317+00:00",
-  "count": 28,
+  "generated_at": "2026-10-06T01:56:45.153197+00:00",
+  "count": 5,
   "videos": {
-    "CRHZT9MkOPA": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 13F로는 안 보이는 드러켄밀러가 브라질에 베팅한 이유",
-      "published": "2026-10-01T09:29:44+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "m3xSXzmo5YE": {
-      "channel": "월가아재의과학적투자",
-      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
-      "title": "[월가아재] 이젠 남유럽보다 프랑스가 더 위험하다? 치솟고 있는 금리",
-      "published": "2026-09-29T08:05:39+00:00",
+    "bbvKoGWKt6A": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Diesel is Spiking. The Market Has the AI Losers Wrong | Are You Betting Too Big?",
+      "published": "2026-10-05T19:55:24+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=m3xSXzmo5YE&ei=t-vCat2QBuWYsfIPkvSMGA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184423&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1B081117865F4A75EFC3A136EA54CC3CB141966F.83B91458785A872CEB07750B4FEF7D68C3FC828D&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=bbvKoGWKt6A&ei=VVXEauCpKNX9sfIP-K2G0QM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4B4C8FE99413CA3B7481EDF7C5C082BB92395CA3.4AFF299F874FCDF793858DD7B731C6D34B45B328&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=bbvKoGWKt6A&ei=VVXEauCpKNX9sfIP-K2G0QM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4B4C8FE99413CA3B7481EDF7C5C082BB92395CA3.4AFF299F874FCDF793858DD7B731C6D34B45B328&key=yt8&kind=asr&lang=en"
       },
-      "transcript": ""
-    },
-    "2cduC5_rK9I": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "초고금리 뉴노멀 시대에 대비하라? 월가 초고수의 깜짝 예언, 적중할까",
-      "published": "2026-10-01T12:02:43+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "kiQ_USot1go": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "사상 첫 우주 데이터센터 시작, 구글 스페이스X의 승부수 먹힐까",
-      "published": "2026-09-30T11:34:25+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=kiQ_USot1go&ei=vOvCaozNGYeRsfIPn7vssA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184428&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D85CA6B7802884F839E4B2F557125DE33F331275.5EAAD7227F451B403E7F6B8DBB6182D371C79775&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=kiQ_USot1go&ei=vOvCaozNGYeRsfIPn7vssA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184428&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D85CA6B7802884F839E4B2F557125DE33F331275.5EAAD7227F451B403E7F6B8DBB6182D371C79775&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "Cswz8biSRHs": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "AI에이전트가 노는 돈 다 찾아내서 옮긴다? 우려가 현실이 된 위기의 주식들",
-      "published": "2026-09-29T12:39:56+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "4muqJe1bX-I": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "메타의 승부수에 깜짝 놀란 증시? AI 3차 변곡점의 새로운 수혜주들",
-      "published": "2026-09-28T12:10:04+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=4muqJe1bX-I&ei=wevCaoC5G7ySsfIPz8CciQM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184433&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=283980DB2FFF8243C2E576BD7F27AB1DE11D9649.8EB141371B11DCC0E0EB2C5DC976C04F78366E5B&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "NcwRLCiMTXc": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "연금저축펀드 6천만원 모아보세요. 신세계 열립니다",
-      "published": "2026-10-04T09:20:52+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=NcwRLCiMTXc&ei=wuvCavWjKpmpsfIPg6yOwAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184434&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=09DBEA9E5A086D548B95A3B76EC9E9B5A59A5E7E.2A91075C7CB2F3AB413A4A4E7C3C7B0756958BDC&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=NcwRLCiMTXc&ei=wuvCavWjKpmpsfIPg6yOwAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184434&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=09DBEA9E5A086D548B95A3B76EC9E9B5A59A5E7E.2A91075C7CB2F3AB413A4A4E7C3C7B0756958BDC&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "Cm7mEgFhR14": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "3억 파이어족은 소액이 아닙니다",
-      "published": "2026-10-04T03:00:17+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "V-jA-SQtNEg": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "2억 5천만원으로 파이어 할 수 있는 방법?",
-      "published": "2026-10-03T03:00:05+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=V-jA-SQtNEg&ei=x-vCavK-C73FsfIP4Z6E-Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184439&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=07F9E0312787D46C37FB261C3D01D1262521102C.BC42F8185B13B307FDFA07FAE213CD153828D48A&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=V-jA-SQtNEg&ei=x-vCavK-C73FsfIP4Z6E-Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184439&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=07F9E0312787D46C37FB261C3D01D1262521102C.BC42F8185B13B307FDFA07FAE213CD153828D48A&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "GYXtEiKIxWo": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "87개월 연속 연금저축펀드 월적립 매수하면 이렇게 됩니다(2026년 9월)",
-      "published": "2026-10-02T13:34:54+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=GYXtEiKIxWo&ei=yOvCarvLAfCQsfIP37fKsA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184440&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BBD48B512DAEFF4981A48E7ACA6F6A243AF2EF01.239BA98257C943E105CA37E4180E7562F43CE223&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=GYXtEiKIxWo&ei=yOvCarvLAfCQsfIP37fKsA8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184440&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BBD48B512DAEFF4981A48E7ACA6F6A243AF2EF01.239BA98257C943E105CA37E4180E7562F43CE223&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "o8JWuJ9pbvI": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "이번 달 배당금 29만원입니다 (2026년 9월)",
-      "published": "2026-10-01T14:35:20+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=o8JWuJ9pbvI&ei=yOvCau_1NJ6ZsfIP-euT8Q4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184440&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3D1C772EDAD650DDD715BE26F6D28158C732B422.B358422A74AB7B92CD37E64B36CCCF311A567FB9&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=o8JWuJ9pbvI&ei=yOvCau_1NJ6ZsfIP-euT8Q4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184440&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3D1C772EDAD650DDD715BE26F6D28158C732B422.B358422A74AB7B92CD37E64B36CCCF311A567FB9&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "nSllUnZJODI": {
-      "channel": "독거투자일지TV",
-      "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
-      "title": "한국 미국 반도체 종목들은 왜 PER 7배 이하에서 움직일까? 이게 적정가일까?(독거투자일지)",
-      "published": "2026-09-28T07:25:18+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "pm_lw1UlPSs": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "더 발전한 문명일수록 우주에선 취약하다?",
-      "published": "2026-10-04T14:15:19+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "ObXlohpX_Qc": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "노벨상 터져도 답 없다, 1위 출판사 문학동네도 결국 백기 (피치덱 이동열 대표)",
-      "published": "2026-10-04T11:55:11+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=ObXlohpX_Qc&ei=0evCasGbIoSVsfIP-_GfsAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184449&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C55B7F529FE4A4602747A18B43C90696DAABD28E.2F346A921B14D7A1ED349319340314FA334C9DCF&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "wdDBg4ZnbHg": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "[멤버십 영상 특별 공개] 골프도 해보고 다 해봤다. 인생의 종착지는 의외로 여기",
-      "published": "2026-10-04T05:55:27+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=wdDBg4ZnbHg&ei=0uvCauPoFrGvt7EPqpqm6QE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184450&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D79AE553AB0DFE86AFAE65C44CCFAAE68536E27F.2B27B64DAE18A601438B82D104EA81716C40D038&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=wdDBg4ZnbHg&ei=0uvCauPoFrGvt7EPqpqm6QE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184450&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D79AE553AB0DFE86AFAE65C44CCFAAE68536E27F.2B27B64DAE18A601438B82D104EA81716C40D038&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "bSz8CMjo1oY": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "정전되면 죽는다 기적의 한국 전력망",
-      "published": "2026-10-03T14:15:02+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "6ffvuZ1RBYc": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "[김정운 박사 3시간 몰아보기] 놀고 와도 우울한 당신. 감탄이 없어서다 | 말하지 않고 말하기 | 문화심리학자 김정운 박사",
-      "published": "2026-10-03T11:55:15+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=6ffvuZ1RBYc&ei=1uvCavTsMsqpsfIP9enkIA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184454&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2313B807F25BE0B6C94D675280438B3B90F8A04E.BEEFBBEDFAA743EBF466B9F7FCAFFBC731635B97&key=yt8&kind=asr&lang=ko"
-      },
-      "transcript": ""
-    },
-    "LF8kY5BLe_o": {
-      "channel": "Patrick Boyle",
-      "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-      "title": "Turkey's $20 Billion Fund Collapse Explained",
-      "published": "2026-10-03T11:02:13+00:00",
-      "subs": {},
       "transcript": ""
     },
     "eEF1YMHMcZs": {
@@ -178,8 +19,8 @@
       "title": "Ed Yardeni Still Sees S&P 10,000 by 2029. So Why Is He Getting More Cautious?",
       "published": "2026-10-04T17:45:16+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=3OvCarGVAsyWsfIPpau2uA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184460&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BD449AA2AA72D00380C0A4455108CB0A0DA35B0F.6D88E85973BBBA6A2C0ABE4588C3B76F8C3B1775&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=3OvCarGVAsyWsfIPpau2uA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184460&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BD449AA2AA72D00380C0A4455108CB0A0DA35B0F.6D88E85973BBBA6A2C0ABE4588C3B76F8C3B1775&key=yt8&kind=asr&lang=en"
+        "ko": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=VlXEapulIsSTsfIP-8XAqQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276998&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=697C7024261DC9338BAA8A6D8F19803F4E6F2A86.803AE1ED9B23DF567E0B157BC4F342259DFCB0DE&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=VlXEapulIsSTsfIP-8XAqQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276998&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=697C7024261DC9338BAA8A6D8F19803F4E6F2A86.803AE1ED9B23DF567E0B157BC4F342259DFCB0DE&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -196,7 +37,10 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "They Beat All US Stock Funds Since 2003 | Michael Baron on the AI Winners Investors Miss",
       "published": "2026-10-01T14:04:11+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=KVCgmorfy50&ei=W1XEavKkGb74sfIPt7DokAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277003&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D16D12EDEAEEFAE3D56021A63E8DAF8E7B2A9B7.7FC77BA8C0ED5F6C55560600E78625AE89FFEAAF&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=KVCgmorfy50&ei=W1XEavKkGb74sfIPt7DokAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277003&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D16D12EDEAEEFAE3D56021A63E8DAF8E7B2A9B7.7FC77BA8C0ED5F6C55560600E78625AE89FFEAAF&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "YlTPdaT-X6U": {
@@ -204,63 +48,8 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "The Game Was Rigged in Their Favor. 28% Went Bust Anyway. Kris Abdelmessih on How to Size Bets",
       "published": "2026-09-29T15:19:23+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "GGhFK6RQFmE": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Rates Are Spiking. The S&P Is One Big AI Bet. What If Your Biggest Risk Is What You Don't Own?",
-      "published": "2026-09-28T14:22:43+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=GGhFK6RQFmE&ei=6OvCapXIJ8qpsfIP_YzkmAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184472&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2F7B9AEFF1EB97040E0E0BEA348DB4BB0F852522.93ACE330E74A0DFBEC7A4BA875E415DC221C7BC0&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=GGhFK6RQFmE&ei=6OvCapXIJ8qpsfIP_YzkmAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184472&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2F7B9AEFF1EB97040E0E0BEA348DB4BB0F852522.93ACE330E74A0DFBEC7A4BA875E415DC221C7BC0&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "PGkxUqMuy3Q": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Why We Need Some Inflation",
-      "published": "2026-10-03T14:35:21+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=PGkxUqMuy3Q&ei=6uvCaqOkCeiSsfIPkJHN2Qw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184474&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=235879D209EB68F43761817495FEDC5ACB4FC2D5.34880DBCA0B92C45D9E43C55DE1583331FA99426&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=PGkxUqMuy3Q&ei=6uvCaqOkCeiSsfIPkJHN2Qw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184474&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=235879D209EB68F43761817495FEDC5ACB4FC2D5.34880DBCA0B92C45D9E43C55DE1583331FA99426&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
-      "transcript": ""
-    },
-    "APMiYiqIgTY": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Gen Z Is Operating With 40% Less Time",
-      "published": "2026-10-03T02:06:13+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "jlXm08DWA9Q": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Make the Putt, Win the Polo ⛳️🔥",
-      "published": "2026-10-02T20:54:48+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "PI2vdmXzLKM": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Everyone Has Lost Their Minds Over AI",
-      "published": "2026-10-02T20:24:38+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "yNY6Zz6D2tU": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Is Gen Z Completely Cooked? | TCAF 262",
-      "published": "2026-10-02T10:00:09+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=yNY6Zz6D2tU&ei=9uvCatrjIaSZsfIPnqLjoAk&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184486&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D8F2AFC180FE3ABB571E948EC1AF8F5E459969C1.945397BEFC466FD9FC1286C89C779B3A4ACCE28A&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=yNY6Zz6D2tU&ei=9uvCatrjIaSZsfIPnqLjoAk&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791184486&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D8F2AFC180FE3ABB571E948EC1AF8F5E459969C1.945397BEFC466FD9FC1286C89C779B3A4ACCE28A&key=yt8&kind=asr&lang=en"
+        "en": "https://www.youtube.com/api/timedtext?v=YlTPdaT-X6U&ei=XFXEavbvEYuVsfIP1cTY0AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277004&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=864C2E84005B6F5657ABAA810A7CABBA37F0644C.DD862BE1153BBC0EC42A0B126138496315ADC203&key=yt8&kind=asr&lang=en"
       },
       "transcript": ""
     }
