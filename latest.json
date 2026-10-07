@@ -1,56 +1,13 @@
 {
-  "generated_at": "2026-10-06T01:56:45.153197+00:00",
-  "count": 5,
+  "generated_at": "2026-10-07T01:02:49.378799+00:00",
+  "count": 1,
   "videos": {
-    "bbvKoGWKt6A": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Diesel is Spiking. The Market Has the AI Losers Wrong | Are You Betting Too Big?",
-      "published": "2026-10-05T19:55:24+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=bbvKoGWKt6A&ei=VVXEauCpKNX9sfIP-K2G0QM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4B4C8FE99413CA3B7481EDF7C5C082BB92395CA3.4AFF299F874FCDF793858DD7B731C6D34B45B328&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=bbvKoGWKt6A&ei=VVXEauCpKNX9sfIP-K2G0QM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276997&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4B4C8FE99413CA3B7481EDF7C5C082BB92395CA3.4AFF299F874FCDF793858DD7B731C6D34B45B328&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "eEF1YMHMcZs": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Ed Yardeni Still Sees S&P 10,000 by 2029. So Why Is He Getting More Cautious?",
-      "published": "2026-10-04T17:45:16+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=VlXEapulIsSTsfIP-8XAqQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276998&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=697C7024261DC9338BAA8A6D8F19803F4E6F2A86.803AE1ED9B23DF567E0B157BC4F342259DFCB0DE&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=eEF1YMHMcZs&ei=VlXEapulIsSTsfIP-8XAqQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791276998&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=697C7024261DC9338BAA8A6D8F19803F4E6F2A86.803AE1ED9B23DF567E0B157BC4F342259DFCB0DE&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
-      "transcript": ""
-    },
-    "6acdbpyIEjs": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "The 10-Year Hit a 24-Year High. Nobody Is Buying Puts. Are You Watching the Wrong Market?",
-      "published": "2026-10-03T14:10:49+00:00",
+    "LF8kY5BLe_o": {
+      "channel": "Patrick Boyle",
+      "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
+      "title": "Turkey's $20 Billion Fund Collapse Explained",
+      "published": "2026-10-03T11:02:13+00:00",
       "subs": {},
-      "transcript": ""
-    },
-    "KVCgmorfy50": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "They Beat All US Stock Funds Since 2003 | Michael Baron on the AI Winners Investors Miss",
-      "published": "2026-10-01T14:04:11+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=KVCgmorfy50&ei=W1XEavKkGb74sfIPt7DokAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277003&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D16D12EDEAEEFAE3D56021A63E8DAF8E7B2A9B7.7FC77BA8C0ED5F6C55560600E78625AE89FFEAAF&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=KVCgmorfy50&ei=W1XEavKkGb74sfIPt7DokAk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277003&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D16D12EDEAEEFAE3D56021A63E8DAF8E7B2A9B7.7FC77BA8C0ED5F6C55560600E78625AE89FFEAAF&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "YlTPdaT-X6U": {
-      "channel": "Excess Returns",
-      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "The Game Was Rigged in Their Favor. 28% Went Bust Anyway. Kris Abdelmessih on How to Size Bets",
-      "published": "2026-09-29T15:19:23+00:00",
-      "subs": {
-        "en": "https://www.youtube.com/api/timedtext?v=YlTPdaT-X6U&ei=XFXEavbvEYuVsfIP1cTY0AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791277004&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=864C2E84005B6F5657ABAA810A7CABBA37F0644C.DD862BE1153BBC0EC42A0B126138496315ADC203&key=yt8&kind=asr&lang=en"
-      },
       "transcript": ""
     }
   }
