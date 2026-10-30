@@ -1,15 +1,260 @@
 {
-  "generated_at": "2026-10-29T01:18:01.102493+00:00",
-  "count": 1,
+  "generated_at": "2026-10-30T01:23:07.025859+00:00",
+  "count": 26,
   "videos": {
+    "JRpEt1ugF60": {
+      "channel": "월가아재의과학적투자",
+      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
+      "title": "[월가아재] 2027년은 위험하다? 월가 전설들의 이구동성",
+      "published": "2026-10-29T08:00:12+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "MXwB5P9mJxA": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "큰 손이 된 키덜트 덕에 주식도 부활? 장난감 사는 어른 시대의 수혜주들",
+      "published": "2026-10-29T10:40:19+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "_gMyqLP0928": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "주식 안 팔아도 세금 내라? 사상 초유의 억만장자세 실험 현실 될까",
+      "published": "2026-10-28T11:54:54+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "WM76m1GByyg": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "큰 손들의 강제 주식 매도는 기회? 월가 변곡점 족집게 전망, 적중할까",
+      "published": "2026-10-27T11:27:25+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=WM76m1GByyg&ei=UfHjavHsJ8qdlu8Pq4W7sAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348545&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=96E36F28F32094F6DE63B0409D5E2BDDD7CBB87E.7FC6BB8F406B3468A0428FA67862863095EA27A0&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=WM76m1GByyg&ei=UfHjavHsJ8qdlu8Pq4W7sAY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348545&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=96E36F28F32094F6DE63B0409D5E2BDDD7CBB87E.7FC6BB8F406B3468A0428FA67862863095EA27A0&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "P4i9A1Woky8": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "AI 자금줄 갑자기 뚝 끊겼다? 증시에 등장한 이상 신호, 경고일까",
+      "published": "2026-10-26T11:15:59+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "FEllPZUqLAE": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "ISA와 연금저축펀드에 건보료 때리면 이렇게 됩니다. 연금계좌는 진짜 큰일 납니다",
+      "published": "2026-10-29T11:41:21+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=FEllPZUqLAE&ei=VvHjaoi_Be3wybgP3pviOA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348550&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=EBF2F3D4735CAED9393DE0826B3D1BE95BEE536D.B8DFB5C851CE559BC62666E8EF7837B216912E14&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=FEllPZUqLAE&ei=VvHjaoi_Be3wybgP3pviOA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348550&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=EBF2F3D4735CAED9393DE0826B3D1BE95BEE536D.B8DFB5C851CE559BC62666E8EF7837B216912E14&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "GmbBVPiS5wY": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "파이어 했는데 큰 하락장 터지면 어떡해요..?",
+      "published": "2026-10-28T09:43:30+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "BSr75iEO93U": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "올해 수익률 VOO 11%인데 국내상장 S&P500 ETF는 1%.. (2026년 10월 월적립)",
+      "published": "2026-10-26T13:08:53+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=BSr75iEO93U&ei=WvHjavm9JN_xir4PtNSTyQs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348554&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ABBE494ED7B54E4685538866252DCF191051BFC7.A7902206F5D0057BAFDCDA76DBF5B26970A19C92&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=BSr75iEO93U&ei=WvHjavm9JN_xir4PtNSTyQs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348554&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ABBE494ED7B54E4685538866252DCF191051BFC7.A7902206F5D0057BAFDCDA76DBF5B26970A19C92&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "-KUQd1uJNAE": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "월적립 매수로 ETF 수량 열심히 늘렸는데 배당금은 왜..(2026년 10월)",
+      "published": "2026-10-25T09:29:29+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=-KUQd1uJNAE&ei=W_HjapL7JeXElu8P-NP26Qs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348555&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7E4F1C72DAF3E1D7CD9F97E73F0B32359CAE952A.A08D3AF360444577F66ADF88D4BF5369AEB528CC&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=-KUQd1uJNAE&ei=W_HjapL7JeXElu8P-NP26Qs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348555&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7E4F1C72DAF3E1D7CD9F97E73F0B32359CAE952A.A08D3AF360444577F66ADF88D4BF5369AEB528CC&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "F4KTSNR4YM4": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "갑자기 잘려도 금융자산 최소 이만큼 있으면 됩니다",
+      "published": "2026-10-24T08:32:16+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "Q9UAyixRN7U": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "옷 쇼핑 하기 딱 좋은 계절..",
+      "published": "2026-10-29T14:15:27+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "tFCy_Fopdmg": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "[이승훈의 비만약 1부] 위고비·마운자로와 완전히 다른 국산 '에페'의 냉정한 성적표. 벌써 1조 원어치 쌓아둔 '진짜 괴물'의 정체 (서울대병원 이승훈 교수)",
+      "published": "2026-10-29T12:25:21+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=tFCy_Fopdmg&ei=ZPHjaoD3HYP0vPEPnIzn4QI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348564&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B91ABC99709158A922D7AAF0715362DF03E74D0C.23D00B71AD24FCF141F1FF6EAFC1ADBAD9687D6F&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=tFCy_Fopdmg&ei=ZPHjaoD3HYP0vPEPnIzn4QI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348564&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B91ABC99709158A922D7AAF0715362DF03E74D0C.23D00B71AD24FCF141F1FF6EAFC1ADBAD9687D6F&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "BsrJpBiQ0CA": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "미국인 60% \"트럼프 싫다\" 미국 중간선거서 공화당 텃밭 텍사스·알래스카 흔들 (언더스탠딩 장순원 기자) ｜2026년 10월 28일 녹화",
+      "published": "2026-10-29T07:55:07+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=BsrJpBiQ0CA&ei=ZfHjapb4J-yQsfIP9cLjkQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348565&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=77081CA0B5349B45CD352B992F09ECCD8086982E.2F62341C8FE346206CFD74EE538BFC4DF38E134A&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=BsrJpBiQ0CA&ei=ZfHjapb4J-yQsfIP9cLjkQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348565&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=77081CA0B5349B45CD352B992F09ECCD8086982E.2F62341C8FE346206CFD74EE538BFC4DF38E134A&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "8RuyKIL9srI": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "미국 정부 주도의 집단 생체실험",
+      "published": "2026-10-28T14:15:39+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=8RuyKIL9srI&ei=ZvHjap7DKLGAlu8P0IDmqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348566&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=99E88CE972482C0A43883232D8AEE18B0D7108C3.68C24892DAE50B78B08B92BB742FBCCBDF88E649&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=8RuyKIL9srI&ei=ZvHjap7DKLGAlu8P0IDmqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348566&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=99E88CE972482C0A43883232D8AEE18B0D7108C3.68C24892DAE50B78B08B92BB742FBCCBDF88E649&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "xn1WeMS0HAo": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "이스라엘 총선에서 예상을 깨고 네타냐후 진영이 앞서. 11월까지 연정 구성해야 하는 네타냐후의 중동전쟁 다시 시작되나 (서강대 유로메나 연구소 성일광 교수)",
+      "published": "2026-10-28T12:52:47+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=xn1WeMS0HAo&ei=Z_Hjav-LIoCqlu8P15GsiAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348567&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=934202D1B9E27E8EBD76F6B037DCA3656633B1EB.70E9C8F447665ED890F1AE74FC1A33B778CE81D8&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=xn1WeMS0HAo&ei=Z_Hjav-LIoCqlu8P15GsiAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348567&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=934202D1B9E27E8EBD76F6B037DCA3656633B1EB.70E9C8F447665ED890F1AE74FC1A33B778CE81D8&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
     "NyOeLB0WVNE": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "Elon Musk’s Power Plant on Wheels",
       "published": "2026-10-24T15:06:23+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "jR3sAVB8mcs": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "The S&P 500 Is Just 50 Stocks. The Nasdaq Is a 67% AI Bet. What Else Is Hiding in Your Funds?",
+      "published": "2026-10-29T14:53:05+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=NyOeLB0WVNE&ei=yJ7iatzCCsqZ2_gP6dPY-A4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793261880&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E6988BD0B93CD0C605E536D36B95464EAE04ECF5.72128FAB26B87139E7725FE7E2C29A7F9E63494D&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=NyOeLB0WVNE&ei=yJ7iatzCCsqZ2_gP6dPY-A4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793261880&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E6988BD0B93CD0C605E536D36B95464EAE04ECF5.72128FAB26B87139E7725FE7E2C29A7F9E63494D&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=jR3sAVB8mcs&ei=bPHjau7ONbPWsfIP7d2JuAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348572&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=83995589DFFD90D256C5335B1541A6CE338CB688.0F50636BD15B8CFA2336B3F7374641455B2E9FC3&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=jR3sAVB8mcs&ei=bPHjau7ONbPWsfIP7d2JuAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348572&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=83995589DFFD90D256C5335B1541A6CE338CB688.0F50636BD15B8CFA2336B3F7374641455B2E9FC3&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "-dV-DdlAt_s": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Stocks Keep Making New Highs. Index Funds Won. So Why Is Daniel Crosby Worried About Sports Betting?",
+      "published": "2026-10-27T13:41:49+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=-dV-DdlAt_s&ei=bfHjauiwMvGcsfIPwbTouQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348573&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=12173FE541E21FE7FAB8557C8F55EE8260EFE212.70BDC8B0AC7E5B9875EBBAF3B5E4772DD656314D&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=-dV-DdlAt_s&ei=bfHjauiwMvGcsfIPwbTouQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348573&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=12173FE541E21FE7FAB8557C8F55EE8260EFE212.70BDC8B0AC7E5B9875EBBAF3B5E4772DD656314D&key=yt8&kind=asr&lang=en&variant=unified"
+      },
+      "transcript": ""
+    },
+    "99gttxfnF2w": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Pros Hold Ungodly Cash. The Debt Isn't the Crisis. Why Buy an IPO at 100 Times Sales?",
+      "published": "2026-10-26T12:24:01+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "bhYzjmyfaXQ": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Baird's Tech Strategist Says This Isn't 2000. So Why Is He Warning Against Buying the Dip?",
+      "published": "2026-10-24T13:38:42+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=bhYzjmyfaXQ&ei=cvHjauOAD_uA-coPvKqAqQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348578&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C107F882F03BA82CF4F8A3BF2BA8A49275F4C4E6.6FEB8A1FB5FF1AB7B77B6902EE6C573BA188B9F7&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=bhYzjmyfaXQ&ei=cvHjauOAD_uA-coPvKqAqQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348578&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C107F882F03BA82CF4F8A3BF2BA8A49275F4C4E6.6FEB8A1FB5FF1AB7B77B6902EE6C573BA188B9F7&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "IlrBYoLZEis": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "He Asked 25 Finance Pros How They Invest Their Own Money: Brian Portnoy on What the Models Get Wrong",
+      "published": "2026-10-23T13:00:11+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=IlrBYoLZEis&ei=c_HjaoHoCIeBlu8Pg5X94As&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348579&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=23855B55A7CEBA9CD88BBDDE94BEBD1873E436FA.6C5232A0478510A3C425FB939685A0139FDDDD6F&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=IlrBYoLZEis&ei=c_HjaoHoCIeBlu8Pg5X94As&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348579&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=23855B55A7CEBA9CD88BBDDE94BEBD1873E436FA.6C5232A0478510A3C425FB939685A0139FDDDD6F&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "tiKmtHfkq9U": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Why Is It So Hard to Invest a Lump Sum?",
+      "published": "2026-10-29T01:49:41+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=tiKmtHfkq9U&ei=dPHjareyCteZsfIPkqT6qA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348580&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A66DF638E56D9763578363E2470613D14B5C4FB5.B592D4A5B01DE865C61E7F90F1914851033749FB&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=tiKmtHfkq9U&ei=dPHjareyCteZsfIPkqT6qA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348580&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A66DF638E56D9763578363E2470613D14B5C4FB5.B592D4A5B01DE865C61E7F90F1914851033749FB&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "XJ7j_ubyUPQ": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "No Use Crying Over Spilled Milk",
+      "published": "2026-10-28T22:48:10+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "QqQ5gBdkWu4": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "The Biggest Problem With the AI Business Model",
+      "published": "2026-10-28T19:17:40+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=QqQ5gBdkWu4&ei=ePHjas-DIKH2sfIP-bXYmAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348584&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CADCE091C931610ACB4515C313B6F57292324572.3A62EB19AC94C9FEAC3875EA111D3A46084E9F29&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=QqQ5gBdkWu4&ei=ePHjas-DIKH2sfIP-bXYmAM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348584&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CADCE091C931610ACB4515C313B6F57292324572.3A62EB19AC94C9FEAC3875EA111D3A46084E9F29&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "meiEjDSe02w": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "How to Put Cash to Work In Any Market Environment",
+      "published": "2026-10-28T17:51:58+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=meiEjDSe02w&ei=efHjaqzvGPaGlu8P9_aS-QI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348585&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E53EF17DDF26F3242BCBD4BBF4460B772A41297A.738AA8EA925502A9ED2C9A4E62B4DC5089B94424&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=meiEjDSe02w&ei=efHjaqzvGPaGlu8P9_aS-QI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348585&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E53EF17DDF26F3242BCBD4BBF4460B772A41297A.738AA8EA925502A9ED2C9A4E62B4DC5089B94424&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "lBGoabXqFgU": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Why High Energy Prices Hit Some Americans Harder",
+      "published": "2026-10-28T17:30:32+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=lBGoabXqFgU&ei=evHjaoSYGa2rlu8P87nwiAg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348586&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2A31F167EFE5141F3976D74C5F7B11EB46FECE1D.4EF2AECDB5010051509D499C864899633C7C40D2&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=lBGoabXqFgU&ei=evHjaoSYGa2rlu8P87nwiAg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793348586&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2A31F167EFE5141F3976D74C5F7B11EB46FECE1D.4EF2AECDB5010051509D499C864899633C7C40D2&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     }
