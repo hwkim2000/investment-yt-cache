@@ -1,119 +1,85 @@
 {
-  "generated_at": "2026-10-31T01:07:15.653932+00:00",
-  "count": 11,
+  "generated_at": "2026-11-01T00:29:06.751100+00:00",
+  "count": 10,
   "videos": {
-    "0lWAnZxb3oA": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "국내상장 미국 ETF 배당금은 나쁘다?",
-      "published": "2026-10-30T03:00:24+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=0lWAnZxb3oA&ei=Kz_lap2TLuGYsfIPn7jBmA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434011&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C287373D2D71F8003F0A720F50D166E89DFC8CB3.550D283BF8B452807D64935F08D243E5FAB20A1A&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=0lWAnZxb3oA&ei=Kz_lap2TLuGYsfIPn7jBmA0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434011&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=C287373D2D71F8003F0A720F50D166E89DFC8CB3.550D283BF8B452807D64935F08D243E5FAB20A1A&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "FEllPZUqLAE": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "ISA와 연금저축펀드에 건보료 때리면 이렇게 됩니다. 연금계좌는 진짜 큰일 납니다",
-      "published": "2026-10-29T11:41:21+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=FEllPZUqLAE&ei=LD_laqv5KLyTsfIP7M7jmQ0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434012&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3D0615A231A147D4DDE556561A22C1CBC2686D00.9C1672E2E5F13F5DF48A170584EF058801EC293C&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=FEllPZUqLAE&ei=LD_laqv5KLyTsfIP7M7jmQ0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434012&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=3D0615A231A147D4DDE556561A22C1CBC2686D00.9C1672E2E5F13F5DF48A170584EF058801EC293C&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "GmbBVPiS5wY": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "파이어 했는데 큰 하락장 터지면 어떡해요..?",
-      "published": "2026-10-28T09:43:30+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=GmbBVPiS5wY&ei=LT_laoavIJeKsfIP8amqsQs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434013&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=0A7BA9164C3E8DD381DA329B1E305AE9208D810C.21BE50A09E2625EB1C1E97E9C3BBF3FD509A3576&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=GmbBVPiS5wY&ei=LT_laoavIJeKsfIP8amqsQs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434013&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=0A7BA9164C3E8DD381DA329B1E305AE9208D810C.21BE50A09E2625EB1C1E97E9C3BBF3FD509A3576&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "BSr75iEO93U": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "올해 수익률 VOO 11%인데 국내상장 S&P500 ETF는 1%.. (2026년 10월 월적립)",
-      "published": "2026-10-26T13:08:53+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=BSr75iEO93U&ei=Lj_laqnuHcaVt7EPsp-_uAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434014&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5EE0B766FBAF14953E332E19A84365592D35EE7D.49FE81B7D20D417467333DC325B42568DA21CE62&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=BSr75iEO93U&ei=Lj_laqnuHcaVt7EPsp-_uAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434014&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5EE0B766FBAF14953E332E19A84365592D35EE7D.49FE81B7D20D417467333DC325B42568DA21CE62&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "-KUQd1uJNAE": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "월적립 매수로 ETF 수량 열심히 늘렸는데 배당금은 왜..(2026년 10월)",
-      "published": "2026-10-25T09:29:29+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=-KUQd1uJNAE&ei=Lz_lavWzG42RsfIPsIC-6Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434015&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9F56B333ABAA96932A466A656146891BFBC9B046.E4DCB3A32F23240B910EE2B9B946DF069572D2A8&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=-KUQd1uJNAE&ei=Lz_lavWzG42RsfIPsIC-6Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434015&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=9F56B333ABAA96932A466A656146891BFBC9B046.E4DCB3A32F23240B910EE2B9B946DF069572D2A8&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "RhpG1Vsg1e0": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국 중간선거 관전 포인트",
-      "published": "2026-10-30T14:15:09+00:00",
+    "DBm1cqv3avc": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "AI인프라 쇼크 어떻게 대응해야 할까, 다음 승자까지 마음 편하게 투자하는 법",
+      "published": "2026-10-30T09:33:21+00:00",
       "subs": {},
       "transcript": ""
     },
-    "BylETcYBDWU": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "미국 AI 기업이 수천억 정치자금을 뿌리는 이유. 미운털 박힌 AI 기업, 선거 이후 3개의 규제 폭탄 터진다 (하수정 경제전문기자)",
-      "published": "2026-10-30T12:25:21+00:00",
+    "MXwB5P9mJxA": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "큰 손이 된 키덜트 덕에 주식도 부활? 장난감 사는 어른 시대의 수혜주들",
+      "published": "2026-10-29T10:40:19+00:00",
       "subs": {},
       "transcript": ""
     },
-    "02LnttLnoPE": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "[프랑스 시위 진짜 이유] 세금은 세계 최고 수준인데 나라 곳간은 텅 비었다. 은퇴자는 잘 살고 학생은 화장실도 못 간다? 프랑스를 망가뜨린 진짜 원인은 연금? (손진석 기자)",
-      "published": "2026-10-30T07:55:08+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=02LnttLnoPE&ei=Pz_lao2WKa6RsfIPy62kiQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434031&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=0B7901D374EB7E06223EEA516F5989449835C10F.26ADCC6587EECDFBE273C2A81902C1127ED1C83C&key=yt8&kind=asr&lang=ko"
-      },
+    "_gMyqLP0928": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "주식 안 팔아도 세금 내라? 사상 초유의 억만장자세 실험 현실 될까",
+      "published": "2026-10-28T11:54:54+00:00",
+      "subs": {},
       "transcript": ""
     },
-    "Q9UAyixRN7U": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "옷 쇼핑 하기 딱 좋은 계절..",
-      "published": "2026-10-29T14:15:27+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=Q9UAyixRN7U&ei=QD_lat2rJabGsfIPx9y36QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434032&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BBFCDAFB4CA386FE5BA52B70F06038A01F361E74.C0A77608C6AE594AB73C2B60522BB4D0172608CF&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=Q9UAyixRN7U&ei=QD_lat2rJabGsfIPx9y36QY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434032&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BBFCDAFB4CA386FE5BA52B70F06038A01F361E74.C0A77608C6AE594AB73C2B60522BB4D0172608CF&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
+    "WM76m1GByyg": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "큰 손들의 강제 주식 매도는 기회? 월가 변곡점 족집게 전망, 적중할까",
+      "published": "2026-10-27T11:27:25+00:00",
+      "subs": {},
       "transcript": ""
     },
-    "tFCy_Fopdmg": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "[이승훈의 비만약 1부] 위고비·마운자로와 완전히 다른 국산 '에페'의 냉정한 성적표. 벌써 1조 원어치 쌓아둔 '진짜 괴물'의 정체 (서울대병원 이승훈 교수)",
-      "published": "2026-10-29T12:25:21+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=tFCy_Fopdmg&ei=QT_lasu9Hs2Xt7EPlu3gmAs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434033&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2ABAEEDBA98E299B4662EC9A348076BBDF9D02E6.4B589A0677CB569EC9281B9A7E665EE6229F78FB&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=tFCy_Fopdmg&ei=QT_lasu9Hs2Xt7EPlu3gmAs&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434033&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2ABAEEDBA98E299B4662EC9A348076BBDF9D02E6.4B589A0677CB569EC9281B9A7E665EE6229F78FB&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
+    "P4i9A1Woky8": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "AI 자금줄 갑자기 뚝 끊겼다? 증시에 등장한 이상 신호, 경고일까",
+      "published": "2026-10-26T11:15:59+00:00",
+      "subs": {},
       "transcript": ""
     },
-    "NyOeLB0WVNE": {
+    "Ic1Jf7VlXRM": {
       "channel": "Patrick Boyle",
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-      "title": "Elon Musk’s Power Plant on Wheels",
-      "published": "2026-10-24T15:06:23+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=NyOeLB0WVNE&ei=Qj_lar72LJmXsfIPudPw8Ac&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434034&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E5938933CC8DE4FD37CB000F47B08A298E5AE42B.36ADD5FFC972FB953CA4AB4261980A98BB850363&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=NyOeLB0WVNE&ei=Qj_lar72LJmXsfIPudPw8Ac&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1793434034&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E5938933CC8DE4FD37CB000F47B08A298E5AE42B.36ADD5FFC972FB953CA4AB4261980A98BB850363&key=yt8&kind=asr&lang=en&variant=gemini"
-      },
+      "title": "What Anthropic’s IPO Filing Actually Says",
+      "published": "2026-10-31T14:25:37+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "nX63lTzaNhc": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Tech is Selling Off. AI Debt Fears Are Rising. So Why Does a $4B Manager See S&P 9,300 Next Year?",
+      "published": "2026-10-30T13:38:14+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "jR3sAVB8mcs": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "The S&P 500 Is Just 50 Stocks. The Nasdaq Is a 67% AI Bet. What Else Is Hiding in Your Funds?",
+      "published": "2026-10-29T14:53:05+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "-dV-DdlAt_s": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Stocks Keep Making New Highs. Index Funds Won. So Why Is Daniel Crosby Worried About Sports Betting?",
+      "published": "2026-10-27T13:41:49+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "99gttxfnF2w": {
+      "channel": "Excess Returns",
+      "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
+      "title": "Pros Hold Ungodly Cash. The Debt Isn't the Crisis. Why Buy an IPO at 100 Times Sales?",
+      "published": "2026-10-26T12:24:01+00:00",
+      "subs": {},
       "transcript": ""
     }
   }
