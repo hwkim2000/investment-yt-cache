@@ -1,13 +1,38 @@
 {
-  "generated_at": "2026-11-24T05:37:35.833818+00:00",
-  "count": 30,
+  "generated_at": "2026-11-25T04:37:57.587638+00:00",
+  "count": 31,
   "videos": {
+    "3jzJq8c-mjQ": {
+      "channel": "월가아재의과학적투자",
+      "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
+      "title": "[월가아재] AI 주식 다시 쓸어 담았다? 아셴브레너 펀드 13F가 말해주는 것",
+      "published": "2026-11-24T10:12:00+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=3jzJq8c-mjQ&ei=AGYGa__wG-fW-coPs9O14AQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606640&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BE31357496936F78076822EA80765527888EE977.50E1CF126905CF7AAFAAFC0A092980D54E6B2119&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=3jzJq8c-mjQ&ei=AGYGa__wG-fW-coPs9O14AQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606640&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BE31357496936F78076822EA80765527888EE977.50E1CF126905CF7AAFAAFC0A092980D54E6B2119&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
     "tw9Esib5hvU": {
       "channel": "월가아재의과학적투자",
       "channel_id": "UCpqD9_OJNtF6suPpi6mOQCQ",
       "title": "[월가아재] 젠슨 황 죽이기에 나선 세력? 매파 vs 비둘기파",
       "published": "2026-11-19T08:35:38+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=tw9Esib5hvU&ei=AWYGa8zOD8iwlu8P0q_zkQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606641&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6B85717F83E2C941648A9F36D30E2BA426D0868B.65C61432273B00BC58B7EAC955C40537A99C9165&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=tw9Esib5hvU&ei=AWYGa8zOD8iwlu8P0q_zkQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606641&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=6B85717F83E2C941648A9F36D30E2BA426D0868B.65C61432273B00BC58B7EAC955C40537A99C9165&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
+      "transcript": ""
+    },
+    "2O2Zf9m0Pw8": {
+      "channel": "소수몽키",
+      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+      "title": "결국 증시 바닥은 트럼프의 입에서 나온다? 트럼프 1기 평행이론 적중할까",
+      "published": "2026-11-24T10:09:13+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=2O2Zf9m0Pw8&ei=AmYGa5a4CoGQ-coPyZ2TeA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606642&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=58930E15F3BDAAC080707AC6BC8D7A82717836FD.8AD6A9CC9D99AE51EC532D887C063D11F30F98AC&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=2O2Zf9m0Pw8&ei=AmYGa5a4CoGQ-coPyZ2TeA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606642&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=58930E15F3BDAAC080707AC6BC8D7A82717836FD.8AD6A9CC9D99AE51EC532D887C063D11F30F98AC&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "6amgLtc9IgU": {
@@ -16,7 +41,7 @@
       "title": "나스닥-20%, 엔비디아 -48% 극단적 공포 구간에 진입한 증시, 기회일까",
       "published": "2026-11-23T13:02:23+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=6amgLtc9IgU&ei=cCIFa62SFvOKkucP_rin8QM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523808&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=94BF5FCD4B8A371B74236393937B780FE27EDC1A.3B4846FEF6495A5A54F7F0E04C1C8706BACE4513&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=6amgLtc9IgU&ei=A2YGa4DXA9K0ir4P4oCE6Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606643&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=56BE63E894B566BA3EBEE79B69FD03E64E696127.8DEFD813118FA685F0B7F38420D8F805D52D0CB6&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -25,7 +50,10 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "앤트로픽 상장 후 투자법 달라져야 한다? AI 다음 사이클의 승자들 잡는 법",
       "published": "2026-11-19T09:23:01+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=_HKbEOD-fd8&ei=A2YGa62RNoaElu8P7tSjwQ4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606643&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D4E4F2C530562D4D03E92516FB205BFA1C3F768.7891EFC584697A337947BE2D591F35EF8FAD7F48&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=_HKbEOD-fd8&ei=A2YGa62RNoaElu8P7tSjwQ4&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606643&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8D4E4F2C530562D4D03E92516FB205BFA1C3F768.7891EFC584697A337947BE2D591F35EF8FAD7F48&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "Z4fzVAS4KCc": {
@@ -33,18 +61,18 @@
       "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
       "title": "AI 끝판왕 앤트로픽 사려고 다른 주식 매도 중? 역대 IPO 패턴 반복될까",
       "published": "2026-11-18T11:40:03+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=Z4fzVAS4KCc&ei=ciIFa7CUNqGKkucPnKK_6AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523810&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=943A1AB894A59368394491D175ECE702D62037B9.27E786826DEE933E1A56F7250BAE1796CBB38206&key=yt8&kind=asr&lang=ko&variant=gemini",
-        "en": "https://www.youtube.com/api/timedtext?v=Z4fzVAS4KCc&ei=ciIFa7CUNqGKkucPnKK_6AM&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523810&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=943A1AB894A59368394491D175ECE702D62037B9.27E786826DEE933E1A56F7250BAE1796CBB38206&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
+      "subs": {},
       "transcript": ""
     },
-    "MQ8gneRrYuw": {
-      "channel": "소수몽키",
-      "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-      "title": "중간선거 끝나자마자 태세전환하는 연준? 2018년 연말 쇼크 재현될까",
-      "published": "2026-11-17T12:08:10+00:00",
-      "subs": {},
+    "ucsrLnpy8tQ": {
+      "channel": "서대리TV",
+      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
+      "title": "재밌는 ETF가 하나 상장합니다",
+      "published": "2026-11-24T14:52:23+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=ucsrLnpy8tQ&ei=CGYGa668C_fplu8Ppaz0yAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606648&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BE316488355DA1279E4A3B5A2515078341A093A4.BE68EC0B7B390C9CE1E0ECA17C872766B91D4366&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=ucsrLnpy8tQ&ei=CGYGa668C_fplu8Ppaz0yAQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606648&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BE316488355DA1279E4A3B5A2515078341A093A4.BE68EC0B7B390C9CE1E0ECA17C872766B91D4366&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "vDsE7pFpb60": {
@@ -52,7 +80,10 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "꿈꾸던 하락장 되었나요?",
       "published": "2026-11-24T03:38:31+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=vDsE7pFpb60&ei=CWYGa_Eh-uuKvg-32beADg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606649&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=864CD8FA2CB630F390E46CB5F8422E10ED0F703B.9E849E3BECB057864C676658E674F88142FA0BAA&key=yt8&kind=asr&lang=ko",
+        "en": "https://www.youtube.com/api/timedtext?v=vDsE7pFpb60&ei=CWYGa_Eh-uuKvg-32beADg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606649&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=864CD8FA2CB630F390E46CB5F8422E10ED0F703B.9E849E3BECB057864C676658E674F88142FA0BAA&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "cEp2hXCPAfg": {
@@ -61,8 +92,8 @@
       "title": "주식시장 지금 나락인데 뭔 헛소리야? (구독자 댓글)",
       "published": "2026-11-23T14:12:21+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=cEp2hXCPAfg&ei=dyIFa6i4K8yDkucPzOC-uQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523815&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=47F74AADFFD4F4A1769AC1C77613F0D6F261374F.5B89A1C09D9CACDAD71061985991F99CF1EC6E65&key=yt8&kind=asr&lang=ko",
-        "en": "https://www.youtube.com/api/timedtext?v=cEp2hXCPAfg&ei=dyIFa6i4K8yDkucPzOC-uQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523815&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=47F74AADFFD4F4A1769AC1C77613F0D6F261374F.5B89A1C09D9CACDAD71061985991F99CF1EC6E65&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+        "ko": "https://www.youtube.com/api/timedtext?v=cEp2hXCPAfg&ei=CWYGa5LCMtCjlu8Pg-zFwAI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606649&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7D6301418E8D6C607E6D72F23D35066B2CD2EBC4.E19BA124BB92B2C317A48E7D1CF35502D0EE1D42&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=cEp2hXCPAfg&ei=CWYGa5LCMtCjlu8Pg-zFwAI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606649&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=7D6301418E8D6C607E6D72F23D35066B2CD2EBC4.E19BA124BB92B2C317A48E7D1CF35502D0EE1D42&key=yt8&kind=asr&lang=en&variant=timing-optimized"
       },
       "transcript": ""
     },
@@ -71,7 +102,10 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "나스닥 ETF 추매 기준가 왔어요. 매수 했나요?",
       "published": "2026-11-22T13:17:13+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=H4qsn420VnI&ei=CmYGa87BJoz6ir4P8MPG6Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606650&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4BC46CE613070CD3CB8313C448038BECE8667C0F.563644DF377BAFD146F4C3ADF859661BC1C2A952&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=H4qsn420VnI&ei=CmYGa87BJoz6ir4P8MPG6Q8&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606650&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4BC46CE613070CD3CB8313C448038BECE8667C0F.563644DF377BAFD146F4C3ADF859661BC1C2A952&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "142dEv2xwwc": {
@@ -79,15 +113,10 @@
       "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
       "title": "주식투자 10년 하면서 이런 적은 처음이네요",
       "published": "2026-11-21T15:06:34+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "WVjvqEOw8jo": {
-      "channel": "서대리TV",
-      "channel_id": "UCtQkxwZkrruYdy2bVNNW-Rw",
-      "title": "미국주식은 폭락을 기다리지 마세요",
-      "published": "2026-11-20T12:14:49+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=142dEv2xwwc&ei=C2YGa6HJGbvej-8P_a-tmQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606651&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F3511EF1C2297A023E1CECDEC71E3BD2864801E.04D94C9867A6536BF2F7440ED7C705E53128479A&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=142dEv2xwwc&ei=C2YGa6HJGbvej-8P_a-tmQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606651&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1F3511EF1C2297A023E1CECDEC71E3BD2864801E.04D94C9867A6536BF2F7440ED7C705E53128479A&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+      },
       "transcript": ""
     },
     "EFEuJQ60J0I": {
@@ -95,7 +124,9 @@
       "channel_id": "UCAT4OjhTXaTJsfrE2uwzOig",
       "title": "엔비디아 젠슨황 이슈는 완전히 사라진 코스피, 앞으로 언제부터 팔아야 하나?(독거투자일지)",
       "published": "2026-11-24T05:14:17+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=EFEuJQ60J0I&ei=DGYGa_etGZuW-coP0eTFqAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606652&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D8842410865BAB982A34003171ABC749B3998F0C.387FDED9338587B71E8D73CA36C5CF041142632D&key=yt8&kind=asr&lang=ko&variant=gemini"
+      },
       "transcript": ""
     },
     "lDAw_Ayjq1c": {
@@ -104,7 +135,35 @@
       "title": "트럼프가 작년 관세전쟁에 이어 또 나스닥을 폭락시켰습니다(독거투자일지)",
       "published": "2026-11-21T00:16:23+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=lDAw_Ayjq1c&ei=iCIFa-qQItW3kucPuLe64Qc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523832&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=2186F72516F67746F59A50FF2F18BFFB4A96504B.0F4E7CD7FEC237BEDA3DA74E9B5AFC1A7F4F66F7&key=yt8&kind=asr&lang=ko"
+        "ko": "https://www.youtube.com/api/timedtext?v=lDAw_Ayjq1c&ei=DWYGa9eBDeTyybgPhfycSA&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606653&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4D261F19E6AF6D76F88748554EBDD5B735042915.1470454C196CED9EDC91C1A2A4FA27AA1391F5AD&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "CoeJmksylRk": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "햄버거 팔아선 남는 게 없다, 세계 최대 소매 부동산 회사가 된 맥도날드 신화",
+      "published": "2026-11-24T14:15:36+00:00",
+      "subs": {},
+      "transcript": ""
+    },
+    "vglWdH8Lxek": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "[채승병의 밀리터리 과학 2부] 현존 최강 F-22 퇴역시키고 무인기 1천대 띄우는 속내. 미국이 거절한 핵심 기술 뚫어낸 KF-21 (한양대 기술경영전문대학원 채승병 겸임교수)",
+      "published": "2026-11-24T12:25:20+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=vglWdH8Lxek&ei=EWYGa-rcJ4mkvPEPqIKl8QE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606657&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B651659DCA8A20786C951586D6B62533DFBEF35C.CC5B1D69C4744715704ACF0DB8CEE08531418562&key=yt8&kind=asr&lang=ko"
+      },
+      "transcript": ""
+    },
+    "-1Vki92B0mA": {
+      "channel": "언더스탠딩",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "title": "독일 BMW 판매 42% 감소시킨 중국 전기차, 유럽 철강과 부품 공장은 중국차 덕에 살아나나 (해담경제연구소 어예진 소장)",
+      "published": "2026-11-24T07:55:20+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=-1Vki92B0mA&ei=EmYGa6eOHPH1zLUPq_m_-QQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606658&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=B804DEC03A8934A6FF8552CA2D3A2E52A4806BEF.13B9948C43DA8C40ABD39F9E611B2E522D67A47D&key=yt8&kind=asr&lang=ko"
       },
       "transcript": ""
     },
@@ -114,8 +173,8 @@
       "title": "산간오지까지 투표함 이고지고 찾아가는 선관위",
       "published": "2026-11-23T14:15:18+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=bR3qWk7FC_I&ei=iSIFa9P3FIqFkucPvYDFkAE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523833&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BAFCE6FB03C794E9DCBBDE7F98B2054C96606786.7C7CB331AE820F386730D8EB8406FCA123DF8BE8&key=yt8&kind=asr&lang=ko&variant=gemini",
-        "en": "https://www.youtube.com/api/timedtext?v=bR3qWk7FC_I&ei=iSIFa9P3FIqFkucPvYDFkAE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523833&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=BAFCE6FB03C794E9DCBBDE7F98B2054C96606786.7C7CB331AE820F386730D8EB8406FCA123DF8BE8&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+        "ko": "https://www.youtube.com/api/timedtext?v=bR3qWk7FC_I&ei=E2YGa7XuDMiY-coPwoyG6Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606659&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=47212D35A9CA6DD766B0E7E28F8A7F1F5D21C73C.24D17851A30CE9DD27CB5732E13D0ACC83B47076&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=bR3qWk7FC_I&ei=E2YGa7XuDMiY-coPwoyG6Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606659&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=47212D35A9CA6DD766B0E7E28F8A7F1F5D21C73C.24D17851A30CE9DD27CB5732E13D0ACC83B47076&key=yt8&kind=asr&lang=en&variant=timing-optimized"
       },
       "transcript": ""
     },
@@ -124,38 +183,9 @@
       "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
       "title": "[채승병의 밀리터리 과학 1부] 마하 속도 미사일을 전투기가 피하는 방법, 스텔스기를 TV 전파로 잡는다? (한양대 기술경영전문대학원 채승병 겸임교수)",
       "published": "2026-11-23T12:25:33+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "PXRlPpgVIU0": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "80조 대기업이 도심 바꾸는 일본 vs 자기자본 3%로 아파트 짓는 한국. 서울에 아자부다이 힐스가 못 나오는 이유 (언더스탠딩 장순원 기자)",
-      "published": "2026-11-23T07:55:25+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=PXRlPpgVIU0&ei=jCIFa-2SBOCJkucP45vHqQc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523836&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=726D48C3799D417E9A67B708344CF358D002928F.C5736C4F0F0F8AA59F6DE67F9F598DAD490E70FA&key=yt8&kind=asr&lang=ko&variant=gemini"
-      },
-      "transcript": ""
-    },
-    "btuym36c2QM": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "내 AI 활용 실력은 몇 점일까?",
-      "published": "2026-11-22T14:15:10+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=btuym36c2QM&ei=jCIFa_eyMPm0kucPz_fY8Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523836&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=71A2772505638C82FCB93A59C23B5CD9BBC1D8D4.B102071D4CF387A741AF66A5B2568E7CF94C6AA8&key=yt8&kind=asr&lang=ko&variant=gemini",
-        "en": "https://www.youtube.com/api/timedtext?v=btuym36c2QM&ei=jCIFa_eyMPm0kucPz_fY8Qk&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523836&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=71A2772505638C82FCB93A59C23B5CD9BBC1D8D4.B102071D4CF387A741AF66A5B2568E7CF94C6AA8&key=yt8&kind=asr&lang=en&variant=timing-optimized"
-      },
-      "transcript": ""
-    },
-    "w4caae8NrHQ": {
-      "channel": "언더스탠딩",
-      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-      "title": "햄버거 팔아선 남는 게 없다. 세계 최대 소매 부동산 회사가 된 맥도날드 신화 | 북언더스탠딩 | 사업을 한다는 것 | 비즈니스 칼럼니스트 박소령",
-      "published": "2026-11-22T11:55:03+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=w4caae8NrHQ&ei=jSIFa8DmIY-BkucP0rfHiQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523837&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=71A42276E9151AED82718AB4EA0AC4D77FB80F9A.48DE056AC157433F4F2CA62A80CFC71406D72C6B&key=yt8&kind=asr&lang=ko&variant=gemini",
-        "en": "https://www.youtube.com/api/timedtext?v=w4caae8NrHQ&ei=jSIFa8DmIY-BkucP0rfHiQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523837&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=71A42276E9151AED82718AB4EA0AC4D77FB80F9A.48DE056AC157433F4F2CA62A80CFC71406D72C6B&key=yt8&kind=asr&lang=en&variant=timing-optimized"
+        "ko": "https://www.youtube.com/api/timedtext?v=cpEVC-I7m4o&ei=FGYGa4BGpbPb-A_myNPZAg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606660&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=498052D3E6ADCD1725E8B0A35A988C62B9C1ABF6.0D8134A9CDD072C19D75E067081DC21ACFE02BC3&key=yt8&kind=asr&lang=ko&variant=gemini",
+        "en": "https://www.youtube.com/api/timedtext?v=cpEVC-I7m4o&ei=FGYGa4BGpbPb-A_myNPZAg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606660&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=498052D3E6ADCD1725E8B0A35A988C62B9C1ABF6.0D8134A9CDD072C19D75E067081DC21ACFE02BC3&key=yt8&kind=asr&lang=en&variant=timing-optimized"
       },
       "transcript": ""
     },
@@ -164,7 +194,10 @@
       "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
       "title": "The Value of Human Frailty: Nvidia faces a Jensen Test!",
       "published": "2026-11-19T21:20:16+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=kldDGZ-C0MU&ei=FGYGa-ztOuC0lu8PsK-zqQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606660&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A930444E5827E2A700CE23D5E96B501E46738B25.850DBE4C0C9F9ADABBB761CEC9EEBDC7C3F90D90&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=kldDGZ-C0MU&ei=FGYGa-ztOuC0lu8PsK-zqQI&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606660&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A930444E5827E2A700CE23D5E96B501E46738B25.850DBE4C0C9F9ADABBB761CEC9EEBDC7C3F90D90&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
       "transcript": ""
     },
     "JpfTrtSE1j8": {
@@ -180,17 +213,20 @@
       "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
       "title": "Why Would Anyone Spend $1 Billion on GTA 6?",
       "published": "2026-11-21T13:56:15+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=7MYXy0ROFM8&ei=GmYGa8GBFqWW-coPsZGPwAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606666&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=57D4CE1C9EB22362836398E152BDB9264A2D0454.1D0E3C3BE7E894DE467D81E59691A18E37D01FCB&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=7MYXy0ROFM8&ei=GmYGa8GBFqWW-coPsZGPwAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606666&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=57D4CE1C9EB22362836398E152BDB9264A2D0454.1D0E3C3BE7E894DE467D81E59691A18E37D01FCB&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
       "transcript": ""
     },
     "Dl_SCpKQbwY": {
       "channel": "Excess Returns",
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
-      "title": "Could the Bond Market Save AI by Slowing It Down?",
+      "title": "The Three Poisons of AI — And Why the Bond Market Could Save It",
       "published": "2026-11-23T17:18:54+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=Dl_SCpKQbwY&ei=lCIFa6riAqmRr9gPpKPxoAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523844&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=913F254924F5F09C603C788DCD358BC0E8686FA6.970819E6EF9E7B8738FD7F8B7536925527489608&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=Dl_SCpKQbwY&ei=lCIFa6riAqmRr9gPpKPxoAc&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523844&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=913F254924F5F09C603C788DCD358BC0E8686FA6.970819E6EF9E7B8738FD7F8B7536925527489608&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=Dl_SCpKQbwY&ei=G2YGa_-yEvv3ut0PlenpwQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606667&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A96D92C61E5AF0D4EDD25E5364E551C11B0AA284.C45D9F0244DB93968F05FC558BA87CAF752A2F1D&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=Dl_SCpKQbwY&ei=G2YGa_-yEvv3ut0PlenpwQg&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606667&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=A96D92C61E5AF0D4EDD25E5364E551C11B0AA284.C45D9F0244DB93968F05FC558BA87CAF752A2F1D&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -200,8 +236,8 @@
       "title": "The Fourth Turning is Here | Neil Howe on What Comes Next",
       "published": "2026-11-22T13:01:12+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=kCAmRgUza-E&ei=lCIFa9_rL_WTr9gPjPHy-Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523844&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4BE3415A879985265CFAC99EB9843D6EDDCFB7F9.B6BED33221E2FC436C4D217837E6DB54E6E1773A&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=kCAmRgUza-E&ei=lCIFa9_rL_WTr9gPjPHy-Ak&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523844&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=4BE3415A879985265CFAC99EB9843D6EDDCFB7F9.B6BED33221E2FC436C4D217837E6DB54E6E1773A&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=kCAmRgUza-E&ei=HGYGa-nnAY392_gPw8vSqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606668&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CC2CBDEE36CA667041D5BB53397865CD6673C5C2.B56667B54023BAB5C2A18EDDAED6A99B8F13E8DC&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=kCAmRgUza-E&ei=HGYGa-nnAY392_gPw8vSqQw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606668&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CC2CBDEE36CA667041D5BB53397865CD6673C5C2.B56667B54023BAB5C2A18EDDAED6A99B8F13E8DC&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     },
@@ -211,8 +247,8 @@
       "title": "The Three Poisons Behind the Sell-Off | Andy Constan on Why This Dip Is Different",
       "published": "2026-11-20T14:12:31+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=PhaAlq5w1R0&ei=lSIFa_3-H_CFkucPqYTHsQE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523845&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=88E6751C1F5DA963EEC7689C6A547E8844DD0CDE.6F89C626BA3292930E27C63634C9173D3110D4D0&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=PhaAlq5w1R0&ei=lSIFa_3-H_CFkucPqYTHsQE&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523845&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=88E6751C1F5DA963EEC7689C6A547E8844DD0CDE.6F89C626BA3292930E27C63634C9173D3110D4D0&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=PhaAlq5w1R0&ei=HGYGa6a5PJG0ir4P8-rP0Qo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606669&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CD17FF798FB2956ADADCA393AF9871FCB4677ED7.6D49AB18D17F288B6C58844BB4537ED90485CABF&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=PhaAlq5w1R0&ei=HGYGa6a5PJG0ir4P8-rP0Qo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606669&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=CD17FF798FB2956ADADCA393AF9871FCB4677ED7.6D49AB18D17F288B6C58844BB4537ED90485CABF&key=yt8&kind=asr&lang=en&variant=unified"
       },
       "transcript": ""
     },
@@ -221,7 +257,10 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "Will Debt End the AI Boom? Two Bond Investors Take Us Inside the Debt Market",
       "published": "2026-11-19T16:46:28+00:00",
-      "subs": {},
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=YISVcwHiKug&ei=HWYGa9abLteh-coP4NWr2Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606669&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E8BB5A069E01027C0330CD89E6AFD661CB2BA026.D89F60C4404FD21543D9CCC19C37E2407A217511&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=YISVcwHiKug&ei=HWYGa9abLteh-coP4NWr2Ao&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606669&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E8BB5A069E01027C0330CD89E6AFD661CB2BA026.D89F60C4404FD21543D9CCC19C37E2407A217511&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
       "transcript": ""
     },
     "dPSRkDwdYRs": {
@@ -229,6 +268,28 @@
       "channel_id": "UCPYvx_y92dvI1PSdiho0ALw",
       "title": "2018 All Over Again? | Why Barry Knapp is Holding Cash",
       "published": "2026-11-18T14:12:16+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=dPSRkDwdYRs&ei=HmYGa8bXHNbHybgPy5rDMQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606670&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ECC1EBC6B9E554005DB20A3AF5497CAB89AE1A63.C462A329EACB4BD6F25B5A8D006B6B24CBD4D395&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=dPSRkDwdYRs&ei=HmYGa8bXHNbHybgPy5rDMQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606670&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=ECC1EBC6B9E554005DB20A3AF5497CAB89AE1A63.C462A329EACB4BD6F25B5A8D006B6B24CBD4D395&key=yt8&kind=asr&lang=en&variant=gemini"
+      },
+      "transcript": ""
+    },
+    "oqSuJ43Zy6U": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Are Tech Founders Becoming Too Powerful?",
+      "published": "2026-11-25T04:14:06+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=oqSuJ43Zy6U&ei=H2YGa5CKIcyhlu8P2O2diQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606671&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8DEC2247E0DD02332A97FE44691251F2E842F02D.7CBCC37CE72C0D3D011D19B438D16DF3A607BE5D&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=oqSuJ43Zy6U&ei=H2YGa5CKIcyhlu8P2O2diQQ&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606671&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=8DEC2247E0DD02332A97FE44691251F2E842F02D.7CBCC37CE72C0D3D011D19B438D16DF3A607BE5D&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "YGmyTJnX-KU": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Return of the Huang | WAYT?",
+      "published": "2026-11-24T23:09:08+00:00",
       "subs": {},
       "transcript": ""
     },
@@ -236,8 +297,22 @@
       "channel": "The Compound",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
       "title": "What Should You Do With Your Nvidia Stock?",
-      "published": "2026-11-23T22:17:05+00:00",
-      "subs": {},
+      "published": "2026-11-24T18:35:23+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=l-ENmLkrelA&ei=I2YGa7aXGr6z2_gPlO6QwAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606675&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D95AB1A4613CFCE69DA62C4128FDFBD5BA16A430.06B47A420C07047FBBD748A92CC1A5488A4A619E&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=l-ENmLkrelA&ei=I2YGa7aXGr6z2_gPlO6QwAw&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606675&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=D95AB1A4613CFCE69DA62C4128FDFBD5BA16A430.06B47A420C07047FBBD748A92CC1A5488A4A619E&key=yt8&kind=asr&lang=en"
+      },
+      "transcript": ""
+    },
+    "cuZqV2IldEs": {
+      "channel": "The Compound",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "title": "Why Leveraged ETFs Are a Trap for Long-Term Investors",
+      "published": "2026-11-24T14:22:23+00:00",
+      "subs": {
+        "ko": "https://www.youtube.com/api/timedtext?v=cuZqV2IldEs&ei=JGYGa4CTDYfyy_sPzaHO-A0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606676&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=259D543402ED1962509C3FC4D8816565DB94E612.828961932B8D7D12E64AF8116B0361FFE2E9B2B6&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=cuZqV2IldEs&ei=JGYGa4CTDYfyy_sPzaHO-A0&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606676&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=259D543402ED1962509C3FC4D8816565DB94E612.828961932B8D7D12E64AF8116B0361FFE2E9B2B6&key=yt8&kind=asr&lang=en"
+      },
       "transcript": ""
     },
     "8PAynJH7gH8": {
@@ -246,38 +321,8 @@
       "title": "Why Apple Is Crushing Nvidia in 2026",
       "published": "2026-11-23T22:13:46+00:00",
       "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=8PAynJH7gH8&ei=myIFa5_WLfGSr9gPkJuZqQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523851&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5310AAC32EC8F18BD5984E7758E68EB8735E951A.33E912DCBD11342B6875503608ACA91A60D78258&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=8PAynJH7gH8&ei=myIFa5_WLfGSr9gPkJuZqQo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523851&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=5310AAC32EC8F18BD5984E7758E68EB8735E951A.33E912DCBD11342B6875503608ACA91A60D78258&key=yt8&kind=asr&lang=en"
-      },
-      "transcript": ""
-    },
-    "YGmyTJnX-KU": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "WAYT? 11-24-2026",
-      "published": "2026-11-23T20:28:39+00:00",
-      "subs": {},
-      "transcript": ""
-    },
-    "f0P6ck81emk": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "The Biggest Trap in the Stock Market Right Now",
-      "published": "2026-11-22T17:55:13+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=f0P6ck81emk&ei=niIFa-HmHvC0kucPpMqssQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523854&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=85DEA6E38F7ABA1E61D92D2DD791B11F55DF5CD8.B8C1EB5F4C6C4624060C715269EDEB3F4A452137&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=f0P6ck81emk&ei=niIFa-HmHvC0kucPpMqssQY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523854&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=85DEA6E38F7ABA1E61D92D2DD791B11F55DF5CD8.B8C1EB5F4C6C4624060C715269EDEB3F4A452137&key=yt8&kind=asr&lang=en&variant=unified"
-      },
-      "transcript": ""
-    },
-    "LSjWF1LxHqs": {
-      "channel": "The Compound",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "title": "Is Nvidia Toast?",
-      "published": "2026-11-22T17:44:02+00:00",
-      "subs": {
-        "ko": "https://www.youtube.com/api/timedtext?v=LSjWF1LxHqs&ei=nyIFa8CmD--BkucP4u7UgAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523855&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=832357B280918DD5A4E72F7AB95C08F51C211307.989E895EB9C27A9B105F864186923A980C35B592&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
-        "en": "https://www.youtube.com/api/timedtext?v=LSjWF1LxHqs&ei=nyIFa8CmD--BkucP4u7UgAo&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795523855&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=832357B280918DD5A4E72F7AB95C08F51C211307.989E895EB9C27A9B105F864186923A980C35B592&key=yt8&kind=asr&lang=en&variant=gemini"
+        "ko": "https://www.youtube.com/api/timedtext?v=8PAynJH7gH8&ei=JGYGa6PMO_X1ir4P78jp-AY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606676&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=96216A59F1547BC9AAC75737ABBCF8D2F9D75DE2.370D50E67F8D775122A817FEC39088D831D2E049&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+        "en": "https://www.youtube.com/api/timedtext?v=8PAynJH7gH8&ei=JGYGa6PMO_X1ir4P78jp-AY&caps=asr&opi=112496729&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1795606676&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=96216A59F1547BC9AAC75737ABBCF8D2F9D75DE2.370D50E67F8D775122A817FEC39088D831D2E049&key=yt8&kind=asr&lang=en&variant=gemini"
       },
       "transcript": ""
     }
